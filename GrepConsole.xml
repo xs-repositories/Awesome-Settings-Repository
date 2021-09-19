@@ -50,7 +50,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*INFO.*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
@@ -73,6 +72,22 @@
                           <option name="foregroundColor">
                             <GrepColor>
                               <option name="color" value="-4144960" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="[INFO]" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16752540" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -111,5 +126,6 @@
         </Profile>
       </list>
     </option>
+    <option name="version" value="1" />
   </component>
 </application>

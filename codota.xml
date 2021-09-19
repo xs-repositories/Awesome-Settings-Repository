@@ -27,7 +27,9 @@
     <option name="usedLanguages">
       <set>
         <option value="java" />
+        <option value="javascript" />
       </set>
     </option>
+    <option name="lastTabnineRecommendationDisplayDate" value="1632050830737" />
   </component>
 </application>

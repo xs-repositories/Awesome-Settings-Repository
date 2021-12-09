@@ -82,6 +82,12 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("assertNull").definedInClass("com.jayway.jsonassert.JsonAsserter"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("assertThat").definedInClass("com.jayway.jsonassert.JsonAsserter"))]]></place>
     </injection>
+    <injection language="http-header-reference" injector-id="java">
+      <display-name>MockServer Header (org.mockserver)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("header").definedInClass("org.mockserver.model.Header"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("withHeader").definedInClass("org.mockserver.model.HttpRequest"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("withHeader", "getHeader", "getFirstHeader", "containsHeader", "removeHeader").definedInClass("org.mockserver.model.HttpResponse"))]]></place>
+    </injection>
     <injection language="http-url-reference" injector-id="java">
       <display-name>OkHttp (okhttp3)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("parse", "get", "newBuilder").withParameters("java.lang.String").definedInClass("okhttp3.HttpUrl"))]]></place>
@@ -125,6 +131,13 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("query", "preparedQuery", "preparedBatch").definedInClass("io.reactiverse.axle.pgclient.PgClient"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("query", "preparedQuery", "preparedBatch").definedInClass("io.reactiverse.pgclient.PgClient"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("query", "preparedQuery", "preparedBatch").definedInClass("io.reactiverse.pgclient.PgPool"))]]></place>
+    </injection>
+    <injection language="http-header-reference" injector-id="java">
+      <display-name>RestAssured HTTP Header (io.restassured)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("addHeader").definedInClass("io.restassured.builder.RequestSpecBuilder"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("header", "getHeader", "headers").definedInClass("io.restassured.response.ResponseOptions"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("header", "getHeader", "headers").definedInClass("io.restassured.response.ValidatableResponseOptions"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("header", "headers").definedInClass("io.restassured.specification.RequestSpecification"))]]></place>
     </injection>
     <injection language="RoomSql" injector-id="java">
       <display-name>Room Query annotation</display-name>
@@ -170,7 +183,9 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("$$").withParameters("java.lang.String").definedInClass("com.codeborne.selenide.Selenide"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("$$").withParameters("java.lang.String").definedInClass("com.codeborne.selenide.SelenideDriver"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("$$").withParameters("java.lang.String").definedInClass("com.codeborne.selenide.SelenideElement"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("ancestor").withParameters("java.lang.String").definedInClass("com.codeborne.selenide.SelenideElement"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("byCssSelector").withParameters("java.lang.String").definedInClass("com.codeborne.selenide.Selectors"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("closest").withParameters("java.lang.String").definedInClass("com.codeborne.selenide.SelenideElement"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("dragAndDropTo").withParameters("java.lang.String").definedInClass("com.codeborne.selenide.SelenideElement"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("element").withParameters("java.lang.String").definedInClass("com.codeborne.selenide.Selenide"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("element").withParameters("java.lang.String", "int").definedInClass("com.codeborne.selenide.Selenide"))]]></place>
@@ -378,6 +393,7 @@
     <injection language="SQL" injector-id="java">
       <display-name>SmallRye Mutiny SqlConnection (io.vertx.mutiny.sqlclient)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepare", "prepareAndAwait").definedInClass("io.vertx.mutiny.db2client.DB2Connection"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepare", "prepareAndAwait").definedInClass("io.vertx.mutiny.mssqlclient.MSSQLConnection"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepare", "prepareAndAwait").definedInClass("io.vertx.mutiny.mysqlclient.MySQLConnection"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepare", "prepareAndAwait").definedInClass("io.vertx.mutiny.pgclient.PgConnection"))]]></place>
     </injection>

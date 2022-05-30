@@ -138,9 +138,32 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="aws.toolkit">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="org.jetbrains.plugins.yaml" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="cn.yiiguxing.plugin.translate">
           <value>
             <PluginData />
+          </value>
+        </entry>
+        <entry key="com.alibabacloud.intellij.cosy">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="org.intellij.plugins.markdown" />
+                </set>
+              </option>
+            </PluginData>
           </value>
         </entry>
         <entry key="com.baomidou.plugin.idea.mybatisx">
@@ -173,6 +196,7 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -308,7 +332,17 @@
                   <option value="com.intellij.properties" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.intellij.bigdatatools">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.ultimate" />
+                </set>
+              </option>
             </PluginData>
           </value>
         </entry>
@@ -323,6 +357,18 @@
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.intellij.properties.bundle.editor">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.xml" />
+                  <option value="com.intellij.properties" />
                 </set>
               </option>
             </PluginData>
@@ -346,7 +392,6 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -400,6 +445,19 @@
                   <option value="Git4Idea" />
                   <option value="com.intellij.modules.platform" />
                   <option value="com.intellij.modules.vcs" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.sjhy.plugin.easycode">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.database" />
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.lang" />
                 </set>
               </option>
             </PluginData>

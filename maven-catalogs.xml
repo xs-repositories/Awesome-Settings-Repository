@@ -1,0 +1,12 @@
+<application>
+  <component name="MavenCatalogManager">
+    <option name="remote">
+      <list>
+        <Remote>
+          <option name="name" value="maven.beeplaying.com" />
+          <option name="url" value="https://maven.beeplaying.com/content/groups/public/" />
+        </Remote>
+      </list>
+    </option>
+  </component>
+</application>

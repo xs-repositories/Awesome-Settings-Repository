@@ -1,0 +1,5 @@
+<application>
+  <component name="ArchetypeCatalogSettings">
+    <archetype-catalog>https://maven.beeplaying.com/content/groups/public/archetype-catalog.xml</archetype-catalog>
+  </component>
+</application>

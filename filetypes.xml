@@ -15,6 +15,7 @@
       <removed_mapping ext="yaml" approved="true" type="AlibabaCloudROS (YAML)" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
       <removed_mapping ext="yml" approved="true" type="YAML" />
+      <removed_mapping pattern=".prettierrc" approved="true" type="JSON" />
     </extensionMap>
   </component>
 </application>

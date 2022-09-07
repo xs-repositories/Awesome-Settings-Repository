@@ -52,7 +52,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="" />
+                <option name="expression" value="has:" />
               </GrepModel>
             </list>
           </option>
@@ -61,7 +61,16 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="has:" />
+                <option name="expression" value="WARNING" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="" />
               </GrepModel>
             </list>
           </option>

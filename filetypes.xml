@@ -5,7 +5,9 @@
       <mapping ext="json" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile-ohmyzsh-java-8.0.332-zulu" type="Dockerfile" />
       <mapping ext="conf" type="LOMBOK_CONFIG" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="cfg" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="json" approved="true" type="JSON" />
       <removed_mapping ext="json" approved="true" type="PLAIN_TEXT" />

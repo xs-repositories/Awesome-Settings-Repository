@@ -106,7 +106,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="thread:" />
+                <option name="expression" value="queue:" />
               </GrepModel>
             </list>
           </option>

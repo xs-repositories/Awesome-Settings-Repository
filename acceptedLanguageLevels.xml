@@ -3,6 +3,8 @@
     <explicitly-accepted>
       <name>JDK_16_PREVIEW</name>
       <name>JDK_19</name>
+      <name>JDK_19_PREVIEW</name>
+      <name>JDK_X</name>
     </explicitly-accepted>
   </component>
 </application>

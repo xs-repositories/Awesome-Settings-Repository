@@ -7,8 +7,8 @@
       <mapping ext="conf" type="LOMBOK_CONFIG" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="wf" type="PLAIN_TEXT" />
-      <mapping ext="xjb" type="XML" />
       <mapping ext="wsdd" type="XML" />
+      <mapping ext="xjb" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="cfg" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />

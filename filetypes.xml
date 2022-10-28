@@ -5,7 +5,6 @@
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".sdkmanrc" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="plantuml" type="PlantUML file" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
@@ -13,6 +12,7 @@
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
       <removed_mapping ext="yml" approved="true" type="YAML" />
+      <mapping ext="plantuml" type="PlantUML file" />
     </extensionMap>
   </component>
 </application>

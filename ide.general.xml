@@ -20,6 +20,8 @@
     <option name="widgets">
       <map>
         <entry key="Memory" value="true" />
+        <entry key="git" value="true" />
+        <entry key="mtStatusBar" value="true" />
       </map>
     </option>
   </component>

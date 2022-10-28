@@ -1,10 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="pristineConfig" value="false" />
-    <option name="settingsSelectedTab" value="1" />
     <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
-    <option name="userId" value="-6661977c:17a6ba2fd15:-8000" />
-    <option name="version" value="7.5.0.3" />
+    <option name="userId" value="-5ed9056f:183e3c90eb7:-8000" />
+    <option name="version" value="7.13.2" />
   </component>
 </application>

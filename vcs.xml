@@ -3,8 +3,8 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="http://git.17usoft.com" />
-          <option name="userName" value="haiqi.wang" />
+          <option name="url" value="http://git.jdd.com" />
+          <option name="userName" value="team6" />
         </UrlAndUserName>
       </list>
     </option>
@@ -19,5 +19,11 @@
         <option value="Space.CommitStatus" />
       </list>
     </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+  </component>
+  <component name="VcsEditorTab.Settings">
+    <option name="openInNewWindow" value="true" />
   </component>
 </application>

@@ -4,7 +4,6 @@
     <option name="author" value="xs" />
     <option name="secretId" value="" />
     <option name="secretKey" value="" />
-    <option name="simpleFieldDoc" value="true" />
     <option name="token" value="" />
   </component>
 </application>

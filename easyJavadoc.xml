@@ -1,7 +1,9 @@
 <application>
   <component name="easyJavadoc">
+    <option name="accessKeyId" value="" />
+    <option name="accessKeySecret" value="" />
     <option name="appId" value="" />
-    <option name="author" value="xs" />
+    <option name="author" value="XS &lt;wanghaiqi@beeplay123.com&gt;" />
     <option name="secretId" value="" />
     <option name="secretKey" value="" />
     <option name="token" value="" />

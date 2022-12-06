@@ -6,5 +6,7 @@
     <option name="monochromeColor" value="546e7a" />
     <option name="isUseHollowFolders" value="false" />
     <option name="arrowsStyle" value="Darcula" />
+    <option name="accentColor" value="6b9bfa" />
+    <option name="themedColor" value="dfe1e5" />
   </component>
 </application>

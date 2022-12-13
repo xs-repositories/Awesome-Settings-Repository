@@ -1,5 +1,10 @@
 <application>
   <component name="OverrideFileTypeManager">
-    <file url="file://D:/.repos/.github/xs-repositories/docker-compose/rabbitmq/haproxy/haproxy.cfg" />
+    <file url="file://$USER_HOME$/.repo/.gitlab/wf/card2/wf-card2-game/protobuf.bat" value="Batch" />
+    <file url="file://$USER_HOME$/.repo/.gitlab/wf/xs-examples/maven-awesome-examples/m1-diff-versions/docker-compose.yaml" value="YAML" />
+    <file url="file://$USER_HOME$/.repo/.gitlab/wf/xs-examples/maven-awesome-examples/m2-maven-wrapper/docker-compose.yaml" value="YAML" />
+    <file url="file://$USER_HOME$/.repo/.gitlab/wf/xs-examples/maven-awesome-examples/m3-pom-repository/docker-compose.yaml" value="YAML" />
+    <file url="file://$USER_HOME$/.repo/.gitlab/wf/xs-examples/maven-awesome-examples/m4-settings/docker-compose.yaml" value="YAML" />
+    <file url="file://$USER_HOME$/.repo/.gitlab/wf/xs-examples/maven-awesome-examples/m6-local-repository/docker-compose.yaml" value="YAML" />
   </component>
 </application>

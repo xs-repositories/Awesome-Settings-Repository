@@ -6,6 +6,7 @@
     <option name="author" value="XS &lt;wanghaiqi@beeplay123.com&gt;" />
     <option name="secretId" value="" />
     <option name="secretKey" value="" />
+    <option name="simpleFieldDoc" value="true" />
     <option name="token" value="" />
   </component>
 </application>

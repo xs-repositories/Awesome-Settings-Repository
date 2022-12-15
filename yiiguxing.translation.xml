@@ -1,15 +1,5 @@
 <application>
-  <component name="AppStorage">
-    <histories>
-      <item value="| Application URL |-------------------------------------------------------------------------- | | This URL is used by the console to properly generate URLs when using | the Artisan command line tool. You should set this to the root of | your application so that it is used when running Artisan tasks." />
-    </histories>
-    <option name="languageScores">
-      <map>
-        <entry key="ENGLISH" value="1" />
-      </map>
-    </option>
-  </component>
-  <component name="Cache">
-    <option name="lastTrimTime" value="1666941022937" />
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1671089711693" />
   </component>
 </application>

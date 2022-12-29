@@ -1,6 +1,7 @@
 <application>
   <component name="DiscordApplicationSettings">
     <option name="show" value="true" />
+    <option name="idle" value="IDLE" />
     <option name="applicationTime" value="APPLICATION" />
     <option name="projectTime" value="APPLICATION" />
     <option name="fileTime" value="APPLICATION" />
@@ -8,6 +9,6 @@
     <option name="fileHideVcsIgnored" value="false" />
     <option name="applicationType" value="IDE_EDITION" />
     <option name="theme" value="material" />
-    <option name="applicationLastUpdateNotification" value="1.7.1" />
+    <option name="applicationLastUpdateNotification" value="1.11.0" />
   </component>
 </application>

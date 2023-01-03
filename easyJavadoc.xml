@@ -4,6 +4,15 @@
     <option name="accessKeySecret" value="" />
     <option name="appId" value="" />
     <option name="author" value="XS &lt;wanghaiqi@beeplay123.com&gt;" />
+    <option name="projectWordMap">
+      <map>
+        <entry key="spring-boot">
+          <value>
+            <map />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="secretId" value="" />
     <option name="secretKey" value="" />
     <option name="simpleFieldDoc" value="true" />

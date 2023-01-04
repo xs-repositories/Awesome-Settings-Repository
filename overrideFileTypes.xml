@@ -1,6 +1,6 @@
 <application>
   <component name="OverrideFileTypeManager">
-    <file url="file://$USER_HOME$/.repo/.gitlab/wf/card2/wf-card2-game/protobuf.bat" value="Batch" />
+    <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-cabbage/wf-cabbage-tests/wf-cabbage-smoke-tests/wf-cabbage-starter-cache-tests/wf-cabbage-starter-cache-standalone-tests/docker-compose.yaml" value="YAML" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/xs-examples/maven-awesome-examples/m1-diff-versions/docker-compose.yaml" value="YAML" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/xs-examples/maven-awesome-examples/m2-maven-wrapper/docker-compose.yaml" value="YAML" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/xs-examples/maven-awesome-examples/m3-pom-repository/docker-compose.yaml" value="YAML" />

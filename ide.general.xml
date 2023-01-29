@@ -19,6 +19,7 @@
       <map>
         <entry key="Memory" value="true" />
         <entry key="aws.codewhisperer" value="false" />
+        <entry key="git" value="true" />
         <entry key="mtStatusBar" value="true" />
       </map>
     </option>

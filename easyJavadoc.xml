@@ -6,11 +6,12 @@
     <option name="author" value="XS &lt;wanghaiqi@beeplay123.com&gt;" />
     <option name="projectWordMap">
       <map>
-        <entry key="spring-boot">
+        <entry key="WF">
           <value>
             <map />
           </value>
         </entry>
+        <entry key="spring-boot" />
       </map>
     </option>
     <option name="secretId" value="" />

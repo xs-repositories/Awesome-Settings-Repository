@@ -1,10 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="compactFields" value="true" />
-    <option name="compactMenus" value="true" />
-    <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
-    <option name="invertedSelectionColor" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
@@ -13,9 +9,9 @@
     <option name="isInvertedSelectionColor" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="settingsSelectedTab" value="3" />
-    <option name="accentColor" value="f9826c" />
-    <option name="selectedTheme" value="GITHUB_DARK" />
+    <option name="accentColor" value="387bff" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-5ed9056f:183e3c90eb7:-8000" />
-    <option name="version" value="8.5.0" />
+    <option name="version" value="8.6.0" />
   </component>
 </application>

@@ -3,6 +3,8 @@
     <option name="version" value="2" />
   </component>
   <component name="ScalaApplicationSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_AND_STRINGS" value="true" />
+    <option name="RENAME_SEARCH_IN_NON_CODE_FILES" value="true" />
     <option name="SUGGEST_IN_EDITOR_DOC_RENDERING" value="false" />
   </component>
 </application>

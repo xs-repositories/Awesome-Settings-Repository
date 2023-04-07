@@ -1,0 +1,6 @@
+<templateSet group="Mybatis/SQL">
+  <template name="CD" value="&lt;![CDATA[&#10;$SELECTION$&#10;]]&lt;" description="使用 CDATA 部分环绕" toReformat="false" toShortenFQNames="false">
+    <variable name="SELECTION" expression="" defaultValue="" alwaysStopAt="false" />
+    <context />
+  </template>
+</templateSet>

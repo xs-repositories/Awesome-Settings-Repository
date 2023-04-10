@@ -6,7 +6,6 @@
       <mapping pattern=".sdkmanrc" type="PLAIN_TEXT" />
       <mapping pattern=".springjavaformatconfig" type="PLAIN_TEXT" />
       <mapping ext="2023-03-27" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="0402" type="PLAIN_TEXT" />
       <mapping ext="20230402" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />

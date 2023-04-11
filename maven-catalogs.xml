@@ -3,8 +3,8 @@
     <option name="remote">
       <list>
         <Remote>
-          <option name="name" value="WF" />
-          <option name="url" value="https://maven.beeplaying.com/content/groups/public/archetype-catalog.xml" />
+          <option name="name" value="mvn.wanfeng-inc.com" />
+          <option name="url" value="https://mvn.wanfeng-inc.com/repository/public/archetype-catalog.xml" />
         </Remote>
       </list>
     </option>

@@ -2,9 +2,7 @@
   <component name="OverrideFileTypeManager">
     <file url="file://$USER_HOME$/.repo/.github/xs-repositories/docker-compose/redis/cluster/docker-compose.yaml" value="YAML" />
     <file url="file://$USER_HOME$/.repo/.github/xs-repositories/docker-compose/shellclash/docker-compose.yaml" value="YAML" />
-    <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-cabbage/wf-cabbage-tests/wf-cabbage-smoke-tests/wf-cabbage-starter-cache-tests/wf-cabbage-starter-cache-cluster-tests/docker-compose.yaml" value="YAML" />
-    <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-cabbage/wf-cabbage-tests/wf-cabbage-smoke-tests/wf-cabbage-starter-cache-tests/wf-cabbage-starter-cache-full-tests/docker-compose.yaml" value="YAML" />
-    <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-cabbage/wf-cabbage-tests/wf-cabbage-smoke-tests/wf-cabbage-starter-cache-tests/wf-cabbage-starter-cache-standalone-tests/docker-compose.yaml" value="YAML" />
+    <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-dockerfile/jdk/openjdk/docker-compose.yml" value="YAML_EX" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-middleware-docker-compose/ghorg/docker-compose.yaml" value="YAML" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-middleware-docker-compose/gitlab/docker-compose-15.9.2-ce.0.yaml" value="YAML" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-middleware-docker-compose/skywalking/docker-compose.yaml" value="YAML" />

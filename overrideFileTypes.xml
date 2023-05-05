@@ -4,6 +4,7 @@
     <file url="file://$USER_HOME$/.repo/.github/xs-repositories/docker-compose/shellclash/docker-compose.yaml" value="YAML" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-middleware-docker-compose/ghorg/docker-compose.yaml" value="YAML" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-middleware-docker-compose/gitlab/docker-compose-15.9.2-ce.0.yaml" value="YAML" />
+    <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-middleware-docker-compose/nginx/docker-compose.yaml" value="YAML" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-middleware-docker-compose/skywalking/docker-compose.yaml" value="YAML" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-middleware-docker-compose/tengine/docker-compose.yaml" value="YAML" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/xs-examples/maven-awesome-examples/m1-diff-versions/docker-compose.yaml" value="YAML" />

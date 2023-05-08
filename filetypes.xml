@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping pattern=".gitattributes" type="AUTO_DETECTED" />
       <mapping pattern="certs" type="AUTO_DETECTED" />
-      <mapping ext="conf" type="Nginx Configuration" />
       <mapping pattern=".sdkmanrc" type="PLAIN_TEXT" />
       <mapping pattern=".springjavaformatconfig" type="PLAIN_TEXT" />
       <mapping ext="2023-03-27" type="PLAIN_TEXT" />

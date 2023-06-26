@@ -1,8 +1,6 @@
 <templateSet group="Zen XSL">
   <template name="attrs" value="&lt;xsl:attribute-set name=&quot;$VAR0$&quot;&gt;$END$&lt;/xsl:attribute-set&gt;" description="&lt;xsl:attribute-set name=&quot;...&quot;&gt;...&lt;/xsl:attribute-set&gt;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="XSL_TEXT" value="true" />
-    </context>
+    <context />
   </template>
 </templateSet>

@@ -1,5 +1,6 @@
 <application>
   <component name="com.github.blarc.ai.commits.intellij.plugin.settings.AppSettings">
     <option name="lastVersion" value="1.2.1" />
+    <option name="locale" value="und" />
   </component>
 </application>

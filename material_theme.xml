@@ -1,20 +1,22 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="compactTables" value="true" />
-    <option name="focusModeEnabled" value="true" />
+    <option name="autoResetColorScheme" value="true" />
     <option name="borderedButtons" value="true" />
     <option name="compactDropdowns" value="true" />
+    <option name="isActiveBoldTab" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isCompactFields" value="true" />
-    <option name="isFocusMode" value="true" />
     <option name="isInvertedSelectionColor" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="useMaterialWallpapers" value="true" />
     <option name="useColoredDirectories" value="true" />
     <option name="useColoredTitleBar" value="true" />
+    <option name="useCustomTitle" value="true" />
     <option name="useProjectFrame" value="true" />
-    <option name="settingsSelectedTab" value="3" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="accentColor" value="387bff" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-5ed9056f:183e3c90eb7:-8000" />

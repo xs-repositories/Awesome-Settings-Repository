@@ -3,6 +3,7 @@
     <option name="completionCaseSensitive" value="2" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="REFORMAT_ON_PASTE" value="1" />
+    <option name="ENABLE_SECOND_REFORMAT" value="true" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">

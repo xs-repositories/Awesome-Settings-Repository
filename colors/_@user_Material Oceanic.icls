@@ -4,7 +4,7 @@
     <property name="created">2019-05-22T10:42:29</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2023-07-24T09:41:43</property>
+    <property name="modified">2023-07-24T09:52:42</property>
     <property name="originalScheme">Material Oceanic</property>
     <property name="partialSave">true</property>
   </metaInfo>
@@ -105,12 +105,6 @@
       </value>
     </option>
     <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
-    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="33e5d" />
-        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
-      </value>
-    </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -967,12 +961,6 @@
     </option>
     <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
     <option name="Unresolved reference access" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="4a4d50" />
-        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
-      </value>
-    </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d32f2f" />

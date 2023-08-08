@@ -1,0 +1,50 @@
+<application>
+  <component name="MLServerCompletionSettings">
+    <option name="langStates">
+      <map>
+        <entry key="JAVA">
+          <value>
+            <LangState>
+              <option name="enabled" value="false" />
+              <option name="localModelState">
+                <ModelState>
+                  <option name="numIterations" value="8" />
+                </ModelState>
+              </option>
+            </LangState>
+          </value>
+        </entry>
+        <entry key="JavaScript">
+          <value>
+            <LangState>
+              <option name="localModelState">
+                <ModelState>
+                  <option name="numIterations" value="8" />
+                </ModelState>
+              </option>
+            </LangState>
+          </value>
+        </entry>
+        <entry key="TypeScript">
+          <value>
+            <LangState>
+              <option name="localModelState">
+                <ModelState>
+                  <option name="numIterations" value="8" />
+                </ModelState>
+              </option>
+            </LangState>
+          </value>
+        </entry>
+        <entry key="kotlin">
+          <value>
+            <LangState>
+              <option name="checkIncorrectCode" value="false" />
+              <option name="enabled" value="false" />
+            </LangState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

@@ -11,7 +11,6 @@
       <mapping ext="2023-03-27" type="PLAIN_TEXT" />
       <mapping ext="0402" type="PLAIN_TEXT" />
       <mapping ext="20230402" type="PLAIN_TEXT" />
-      <mapping ext="plantuml" type="PlantUML file" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
@@ -22,6 +21,7 @@
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
       <removed_mapping ext="yml" approved="true" type="YAML" />
+      <mapping ext="plantuml" type="PlantUML file" />
     </extensionMap>
   </component>
 </application>

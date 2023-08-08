@@ -1,0 +1,9 @@
+<application>
+  <component name="com.smallcloud.refactai.settings.PrivacyState">
+    <option name="privacyRecords">
+      <list>
+        <PrivacyRecord filePath="C:\Users\XS\.Jetbrains\IdeaProjects\WF" privacy="ENABLED" />
+      </list>
+    </option>
+  </component>
+</application>

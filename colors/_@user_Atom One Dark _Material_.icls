@@ -4,7 +4,7 @@
     <property name="created">2021-09-24T21:05:06</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.2.0.0</property>
-    <property name="modified">2023-08-10T09:17:55</property>
+    <property name="modified">2023-08-10T09:41:43</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
     <property name="partialSave">true</property>
     <property name="rainbow 默认语言">true</property>
@@ -38,9 +38,6 @@
         <option name="BACKGROUND" value="33e5d" />
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
-    </option>
-    <option name="KOTLIN_LABEL">
-      <value />
     </option>
     <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
       <value />
@@ -1040,12 +1037,6 @@
     <option name="MARKDOWN_NAVIGATOR.WIKI_LINK_TEXT">
       <value>
         <option name="FOREGROUND" value="61afef" />
-      </value>
-    </option>
-    <option name="MATCHED_BRACE_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="3b514d" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="NG.EXPRESSIONS">

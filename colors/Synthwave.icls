@@ -4,7 +4,7 @@
     <property name="created">2018-08-04T11:56:37</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2023-07-20T09:17:24</property>
+    <property name="modified">2023-08-10T09:41:43</property>
     <property name="originalScheme">SynthWave '84 (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -76,14 +76,19 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="3edf9" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="3edf9" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="3edf9" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="36f9f6" />
     <option name="FILESTATUS_MODIFIED" value="f92aad" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="b893ce" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="b893ce" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
     <option name="FILESTATUS_RENAMED" value="fede5d" />
     <option name="FILESTATUS_SUPPRESSED" value="848bbd" />
     <option name="FILESTATUS_SWITCHED" value="fede5d" />
-    <option name="FILESTATUS_UNKNOWN" value="b893ce" />
+    <option name="FILESTATUS_UNKNOWN" value="999999" />
     <option name="FILESTATUS_addedOutside" value="3edf9" />
     <option name="FILESTATUS_changelistConflict" value="a148ab" />
     <option name="FILESTATUS_modifiedOutside" value="a148ab" />
@@ -210,8 +215,8 @@
         <option name="FOREGROUND" value="fede5d" />
       </value>
     </option>
-    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="" />
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="APACHE_CONFIG.ARG_LEXEM">
       <value>
         <option name="FOREGROUND" value="ff8b39" />
@@ -261,9 +266,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.HERE_DOC_END" baseAttributes="" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="" />
-    <option name="BASH.SHEBANG" baseAttributes="" />
+    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BLINKING_HIGHLIGHTS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="f92aad" />
@@ -544,9 +549,9 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
-    <option name="Class" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="Closure braces">
       <value>
         <option name="FOREGROUND" value="36f9f6" />
@@ -1158,11 +1163,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="" />
+    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_CODE">
       <value />
     </option>
-    <option name="HTML_ENTITY_REFERENCE" baseAttributes="" />
+    <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="HTML_TAG">
       <value>
         <option name="FOREGROUND" value="36f9f6" />
@@ -1323,8 +1328,8 @@
         <option name="FOREGROUND" value="ff7edb" />
       </value>
     </option>
-    <option name="Implicit conversion" baseAttributes="" />
-    <option name="Interpolated String Injection" baseAttributes="" />
+    <option name="Implicit conversion" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="Interpolated String Injection" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="JAVA.PRIMITIVE">
       <value>
         <option name="FOREGROUND" value="f97e72" />
@@ -1432,7 +1437,7 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JUPYTER.SAUSAGE_BUTTON_APPEARANCE">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -1507,9 +1512,7 @@
       </value>
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -1871,10 +1874,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="34294f" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="495495" />
-        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -2092,14 +2093,14 @@
         <option name="FOREGROUND" value="e4f3fa" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
     <option name="PROPERTIES.KEY">
       <value>
         <option name="FOREGROUND" value="72f1b8" />
       </value>
     </option>
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="72f1b8" />
@@ -2185,14 +2186,14 @@
         <option name="FOREGROUND" value="ff7edb" />
       </value>
     </option>
-    <option name="REGEXP.BRACES" baseAttributes="" />
-    <option name="REGEXP.BRACKETS" baseAttributes="" />
-    <option name="REGEXP.CHAR_CLASS" baseAttributes="" />
-    <option name="REGEXP.ESC_CHARACTER" baseAttributes="" />
-    <option name="REGEXP.META" baseAttributes="" />
-    <option name="REGEXP.PARENTHS" baseAttributes="" />
-    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="" />
-    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="" />
+    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
+    <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
+    <option name="REGEXP.CHAR_CLASS" baseAttributes="DEFAULT_ENTITY" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="REST.FIXED">
       <value>
         <option name="BACKGROUND" value="463564" />
@@ -2208,7 +2209,7 @@
         <option name="BACKGROUND" value="463564" />
       </value>
     </option>
-    <option name="RHTML_COMMENT_ID" baseAttributes="" />
+    <option name="RHTML_COMMENT_ID" baseAttributes="HTML_COMMENT" />
     <option name="RHTML_EXPRESSION_END_ID">
       <value>
         <option name="FOREGROUND" value="fe4450" />
@@ -2642,7 +2643,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="" />
+    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="36f9f6" />
@@ -2739,7 +2740,7 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="" />
+    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="f97e72" />
@@ -2796,7 +2797,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="SUGGESTION">
       <value>
         <option name="EFFECT_COLOR" value="848bbd" />
@@ -2804,16 +2805,16 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Scala Immutable Collection" baseAttributes="" />
-    <option name="Scala Mutable Collection" baseAttributes="" />
+    <option name="Scala Immutable Collection" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="Scala Mutable Collection" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="Scala Predefined types">
       <value>
         <option name="FOREGROUND" value="36f9f6" />
       </value>
     </option>
-    <option name="Scala Type Alias" baseAttributes="" />
-    <option name="Scala Type parameter" baseAttributes="" />
-    <option name="Static method access" baseAttributes="" />
+    <option name="Scala Type Alias" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="Scala Type parameter" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="ffdb8e" />
@@ -2894,7 +2895,7 @@
         <option name="FOREGROUND" value="fede5d" />
       </value>
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="72f1b8" />
@@ -2950,20 +2951,20 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_ATTRIBUTE_NAME" baseAttributes="" />
+    <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="XML_CUSTOM_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="72f1b8" />
       </value>
     </option>
-    <option name="XML_ENTITY_REFERENCE" baseAttributes="" />
-    <option name="XML_PROLOGUE" baseAttributes="" />
+    <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="3edf9" />
       </value>
     </option>
-    <option name="XML_TAG_DATA" baseAttributes="" />
+    <option name="XML_TAG_DATA" baseAttributes="TEXT" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="72f1b8" />
@@ -2986,21 +2987,21 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="YAML_ANCHOR" baseAttributes="" />
+    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="ff6363" />
       </value>
     </option>
-    <option name="com.plan9.IDENTIFIER" baseAttributes="" />
-    <option name="com.plan9.INSTRUCTION" baseAttributes="" />
-    <option name="com.plan9.LABEL" baseAttributes="" />
-    <option name="com.plan9.PSEUDO_INSTRUCTION" baseAttributes="" />
-    <option name="com.plan9.REGISTER" baseAttributes="" />
-    <option name="org.rust.LIFETIME" baseAttributes="" />
-    <option name="org.rust.MUT_BINDING" baseAttributes="" />
-    <option name="org.rust.MUT_PARAMETER" baseAttributes="" />
-    <option name="org.rust.TYPE_PARAMETER" baseAttributes="" />
+    <option name="com.plan9.IDENTIFIER" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="com.plan9.INSTRUCTION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="com.plan9.LABEL" baseAttributes="DEFAULT_LABEL" />
+    <option name="com.plan9.PSEUDO_INSTRUCTION" baseAttributes="com.plan9.INSTRUCTION" />
+    <option name="com.plan9.REGISTER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="org.rust.LIFETIME" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="org.rust.MUT_BINDING" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="org.rust.MUT_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="org.rust.TYPE_PARAMETER" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="org.rust.UNSAFE_CODE">
       <value />
     </option>

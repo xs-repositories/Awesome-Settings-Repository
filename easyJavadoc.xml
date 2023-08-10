@@ -12,11 +12,12 @@
           </value>
         </entry>
         <entry key="spring-boot" />
-        <entry key="wf-config">
+        <entry key="wf-cabbage">
           <value>
             <map />
           </value>
         </entry>
+        <entry key="wf-config" />
       </map>
     </option>
     <option name="secretId" value="" />

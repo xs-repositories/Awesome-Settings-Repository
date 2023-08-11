@@ -1,6 +1,6 @@
 <application>
   <component name="LafManager" autodetect="true">
-    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="NIGHT_OWL" />
+    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="ExperimentalDark" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Atom One Dark (Material)" scheme="_@user_Atom One Dark (Material)" />
       <laf-to-scheme laf="Dark" scheme="_@user_Dark" />
@@ -12,7 +12,6 @@
       <laf-to-scheme laf="Material Oceanic" scheme="Material Oceanic" />
       <laf-to-scheme laf="Material Palenight" scheme="_@user_Material Palenight" />
       <laf-to-scheme laf="Moonlight (Material)" scheme="_@user_Moonlight (Material)" />
-      <laf-to-scheme laf="Night Owl (Material)" scheme="_@user_Night Owl (Material)" />
       <laf-to-scheme laf="SynthWave '84 (Material)" scheme="SynthWave '84 (Material)" />
     </lafs-to-previous-schemes>
   </component>

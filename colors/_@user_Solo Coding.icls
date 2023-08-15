@@ -4,7 +4,7 @@
     <property name="created">2022-07-21T20:21:42</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2023-08-16T07:34:50</property>
+    <property name="modified">2023-08-16T07:37:35</property>
     <property name="originalScheme">Solo Coding</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -2877,7 +2877,7 @@
         <option name="FOREGROUND" value="ff8fec" />
       </value>
     </option>
-    <option name="XPATH.FUNCTION" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="XPATH.FUNCTION" baseAttributes="" />
     <option name="XPATH.KEYWORD">
       <value>
         <option name="FOREGROUND" value="d55fde" />

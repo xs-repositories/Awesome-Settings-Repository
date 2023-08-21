@@ -5,6 +5,7 @@
     <file url="file://$USER_HOME$/.repo/.github/xs-repositories/docker-compose/shellclash/docker-compose.yaml" value="YAML" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-boot-core/CHANGELOG" value="Markdown" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-cli/src/main/bash/wf-rm.sh" value="Shell Script" />
+    <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-middleware-docker-compose/canal/docker-compose.yaml" value="YAML" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-middleware-docker-compose/chat2db/docker-compose.yaml" value="YAML" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-middleware-docker-compose/ghorg/docker-compose.yaml" value="YAML" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-middleware-docker-compose/gitlab/dist/docker-compose-15.9.2-ce.0.yaml" value="YAML" />

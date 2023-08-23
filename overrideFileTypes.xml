@@ -9,6 +9,7 @@
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-middleware-docker-compose/chat2db/docker-compose.yaml" value="YAML" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-middleware-docker-compose/ghorg/docker-compose.yaml" value="YAML" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-middleware-docker-compose/gitlab/dist/docker-compose-15.9.2-ce.0.yaml" value="YAML" />
+    <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-middleware-docker-compose/rocketmq/5.x/docker-compose.yaml" value="YAML" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-middleware-docker-compose/skywalking/docker-compose.yaml" value="YAML" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-middleware-docker-compose/tengine/docker-compose.yaml" value="YAML" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/xs-examples/maven-awesome-examples/m1-diff-versions/docker-compose.yaml" value="YAML" />

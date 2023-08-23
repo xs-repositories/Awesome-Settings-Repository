@@ -4,7 +4,7 @@
     <property name="created">2022-07-21T19:57:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2023-08-23T10:02:56</property>
+    <property name="modified">2023-08-24T07:40:26</property>
     <property name="originalScheme">vuesion-theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -3430,15 +3430,15 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="XML_ENTITY_REFERENCE" baseAttributes="" />
-    <option name="XML_PROLOGUE" baseAttributes="" />
+    <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="55616c" />
       </value>
     </option>
-    <option name="XML_TAG_DATA" baseAttributes="" />
-    <option name="XML_TAG_NAME" baseAttributes="" />
+    <option name="XML_TAG_DATA" baseAttributes="TEXT" />
+    <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="XPATH.KEYWORD" baseAttributes="" />
     <option name="XPATH.XPATH_NAME" baseAttributes="" />
     <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />

@@ -4,7 +4,7 @@
     <property name="created">2022-07-22T07:57:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2023-08-23T10:02:56</property>
+    <property name="modified">2023-08-24T07:40:26</property>
     <property name="originalScheme">Restraint</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.9" />
@@ -508,7 +508,7 @@
         <option name="ERROR_STRIPE_COLOR" value="a5b9c2" />
       </value>
     </option>
-    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="" />
+    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="807353" />

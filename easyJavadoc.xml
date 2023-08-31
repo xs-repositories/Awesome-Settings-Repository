@@ -6,7 +6,8 @@
     <option name="author" value="XS &lt;wanghaiqi@beeplay123.com&gt;" />
     <option name="projectWordMap">
       <map>
-        <entry key="WF">
+        <entry key="WF" />
+        <entry key="keep-assistant">
           <value>
             <map />
           </value>
@@ -17,7 +18,21 @@
             <map />
           </value>
         </entry>
-        <entry key="wf-config" />
+        <entry key="wf-config">
+          <value>
+            <map />
+          </value>
+        </entry>
+        <entry key="wf-middleware-docker-compose">
+          <value>
+            <map />
+          </value>
+        </entry>
+        <entry key="wf_riskmonitor">
+          <value>
+            <map />
+          </value>
+        </entry>
       </map>
     </option>
     <option name="secretId" value="" />

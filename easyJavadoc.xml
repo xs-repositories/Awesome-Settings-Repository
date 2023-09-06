@@ -7,32 +7,26 @@
     <option name="projectWordMap">
       <map>
         <entry key="WF" />
-        <entry key="keep-assistant">
+        <entry key="dubbo-admin">
           <value>
             <map />
           </value>
         </entry>
+        <entry key="keep-assistant" />
         <entry key="spring-boot" />
-        <entry key="wf-cabbage">
-          <value>
-            <map />
-          </value>
-        </entry>
-        <entry key="wf-config">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="wf-cabbage" />
+        <entry key="wf-config" />
         <entry key="wf-middleware-docker-compose">
           <value>
             <map />
           </value>
         </entry>
-        <entry key="wf_riskmonitor">
+        <entry key="wf_boot_admin">
           <value>
             <map />
           </value>
         </entry>
+        <entry key="wf_riskmonitor" />
       </map>
     </option>
     <option name="secretId" value="" />

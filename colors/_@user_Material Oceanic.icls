@@ -4,7 +4,7 @@
     <property name="created">2019-05-22T10:42:29</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2023-09-04T17:29:13</property>
+    <property name="modified">2023-09-06T13:07:01</property>
     <property name="originalScheme">Material Oceanic</property>
     <property name="partialSave">true</property>
   </metaInfo>
@@ -94,12 +94,6 @@
         <option name="FOREGROUND" value="89ddf7" />
       </value>
     </option>
-    <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
-      <value>
-        <option name="BACKGROUND" value="33e5d" />
-        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
-      </value>
-    </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="c3cee3" />
@@ -107,12 +101,6 @@
       </value>
     </option>
     <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
-    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="33e5d" />
-        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
-      </value>
-    </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -147,12 +135,6 @@
       <value />
     </option>
     <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
-    <option name="LIVE_TEMPLATE_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="9688" />
-      </value>
-    </option>
     <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
     <option name="MARKDOWN_NAVIGATOR.ABBREVIATED_TEXT">
       <value>
@@ -951,12 +933,6 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
-    <option name="SONARLINT_SELECTED">
-      <value>
-        <option name="BACKGROUND" value="33e5d" />
-        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
-      </value>
-    </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="ffd700" />
@@ -989,12 +965,6 @@
     </option>
     <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
     <option name="Unresolved reference access" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="4a4d50" />
-        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
-      </value>
-    </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d32f2f" />

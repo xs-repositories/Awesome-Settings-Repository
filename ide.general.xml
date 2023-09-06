@@ -18,6 +18,7 @@
     <entry key="ide.animate.toolwindows" value="true" />
     <entry key="editor.focus.mode.color.light" value="5a5d63" />
     <entry key="editor.focus.mode.color.dark" value="5a5d63" />
+    <entry key="debugger.watches.in.variables" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

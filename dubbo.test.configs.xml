@@ -1,0 +1,13 @@
+<application>
+  <component name="com.yanglx.dubbo.test.DubboSetingState">
+    <option name="dubboConfigs">
+      <list>
+        <CacheInfo>
+          <option name="address" value="zookeeper://127.0.0.1:2181" />
+          <option name="name" value="Default" />
+          <option name="version" value="1.0.0" />
+        </CacheInfo>
+      </list>
+    </option>
+  </component>
+</application>

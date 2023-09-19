@@ -4,18 +4,24 @@
     <option name="accessKeySecret" value="" />
     <option name="appId" value="" />
     <option name="author" value="XS &lt;wanghaiqi@beeplay123.com&gt;" />
+    <option name="googleKey" value="" />
+    <option name="microsoftKey" value="" />
     <option name="projectWordMap">
       <map>
         <entry key="WF" />
-        <entry key="dubbo-admin">
+        <entry key="dubbo-admin" />
+        <entry key="keep-assistant">
           <value>
             <map />
           </value>
         </entry>
-        <entry key="keep-assistant" />
         <entry key="spring-boot" />
         <entry key="wf-cabbage" />
-        <entry key="wf-config" />
+        <entry key="wf-config">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="wf-middleware-docker-compose" />
         <entry key="wf_boot_admin" />
         <entry key="wf_riskmonitor" />
@@ -25,5 +31,7 @@
     <option name="secretKey" value="" />
     <option name="simpleFieldDoc" value="true" />
     <option name="token" value="" />
+    <option name="youdaoAppKey" value="" />
+    <option name="youdaoAppSecret" value="" />
   </component>
 </application>

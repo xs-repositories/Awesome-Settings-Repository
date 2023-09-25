@@ -3,6 +3,7 @@
     <option name="privacyRecords">
       <list>
         <PrivacyRecord filePath="C:\Users\XS\.Jetbrains\IdeaProjects\WF" privacy="ENABLED" />
+        <PrivacyRecord filePath="C:\Users\XS\.repo\.gitlab\wf\development-center\wf-config" privacy="ENABLED" />
       </list>
     </option>
   </component>

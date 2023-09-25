@@ -1,0 +1,9 @@
+<application>
+  <component name="com.smallcloud.refactai.settings.ExtraState">
+    <option name="usageStatsMessagesCache">
+      <map>
+        <entry key="0&#9;&quot;recall (1)&quot;&#9;https://www.smallcloud.ai/v1/streamlined-login-recall-ticket&#9;&quot;{\n    \&quot;retcode\&quot;: \&quot;FAILED\&quot;,\n    \&quot;human_readable_message\&quot;: \&quot;The API key is not recognized (1).\&quot;\n}&quot;" value="3" />
+      </map>
+    </option>
+  </component>
+</application>

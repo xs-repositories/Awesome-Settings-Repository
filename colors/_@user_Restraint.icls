@@ -4,7 +4,7 @@
     <property name="created">2022-07-22T07:57:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2023-09-25T20:17:40</property>
+    <property name="modified">2023-09-26T09:58:35</property>
     <property name="originalScheme">Restraint</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.9" />
@@ -566,7 +566,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
         <option name="FOREGROUND" value="6c1d1b" />
@@ -579,7 +579,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="63755d" />

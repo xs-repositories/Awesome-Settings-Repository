@@ -1,0 +1,8 @@
+<application>
+  <component name="com.fobgochod.setting.ZkConfigState">
+    <option name="host" value="zk.dev.wanfeng-inc.com" />
+    <option name="name" value="dev" />
+    <option name="path" value="" />
+    <option name="username" value="" />
+  </component>
+</application>

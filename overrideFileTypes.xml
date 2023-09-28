@@ -15,6 +15,7 @@
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-middleware-docker-compose/rocketmq/5.x/docker-compose.yaml" value="YAML" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-middleware-docker-compose/skywalking/docker-compose.yaml" value="YAML" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-middleware-docker-compose/tengine/docker-compose.yaml" value="YAML" />
+    <file url="file://$USER_HOME$/.repo/.gitlab/wf/wf-frameworking-upgrade/wf-middleware-docker-compose/zookeeper/dev/docker-compose.yaml" value="YAML" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/xs-examples/maven-awesome-examples/m1-diff-versions/docker-compose.yaml" value="YAML" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/xs-examples/maven-awesome-examples/m2-maven-wrapper/docker-compose.yaml" value="YAML" />
     <file url="file://$USER_HOME$/.repo/.gitlab/wf/xs-examples/maven-awesome-examples/m3-pom-repository/docker-compose.yaml" value="YAML" />

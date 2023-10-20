@@ -23,6 +23,7 @@
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
       <removed_mapping ext="yml" approved="true" type="YAML" />
+      <removed_mapping pattern=".sdkmanrc" approved="true" type="Properties" />
     </extensionMap>
   </component>
 </application>

@@ -4,7 +4,7 @@
     <property name="created">2022-07-21T19:57:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2023-10-20T20:52:35</property>
+    <property name="modified">2023-10-20T20:53:02</property>
     <property name="originalScheme">Tanne</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -141,7 +141,7 @@
         <option name="FOREGROUND" value="ffc757" />
       </value>
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="BACKGROUND">
       <value>
         <option name="EFFECT_TYPE" value="5" />
@@ -3372,7 +3372,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
     <option name="SUGGESTION">
       <value>
         <option name="EFFECT_COLOR" value="939393" />

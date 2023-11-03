@@ -4,7 +4,7 @@
     <property name="created">2022-07-22T07:57:11</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2023-10-30T15:10:18</property>
+    <property name="modified">2023-11-03T09:49:00</property>
     <property name="originalScheme">Lotus Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -2877,8 +2877,8 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XPATH.XPATH_NAME" baseAttributes="" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
+    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_ANCHOR">
       <value>
         <option name="FOREGROUND" value="a9dc76" />

@@ -3,11 +3,10 @@
     <property name="created">2022-07-21T19:44:02</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2023-11-03T10:46:27</property>
+    <property name="modified">2023-11-03T13:27:24</property>
     <property name="originalScheme">Dark</property>
     <property name="partialSave">true</property>
     <property name="rainbow Default language">true</property>
-    <property name="rainbow 默认语言">true</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="2b2d30" />
@@ -45,18 +44,6 @@
         <option name="FOREGROUND" value="a571e6" />
         <option name="EFFECT_COLOR" value="a571e6" />
         <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="HTML_CODE">
-      <value />
-    </option>
-    <option name="KOTLIN_LABEL">
-      <value />
-    </option>
-    <option name="MATCHED_BRACE_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="3b514d" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TEXT">

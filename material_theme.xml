@@ -23,12 +23,13 @@
     <option name="useShadows" value="true" />
     <option name="indicatorStyle" value="空白" />
     <option name="settingsSelectedTab" value="4" />
-    <option name="accentColor" value="009688" />
+    <option name="accentColor" value="79c0ff" />
     <option name="secondAccentColor" />
     <option name="highlightColor" />
     <option name="focusColor" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-5ed9056f:183e3c90eb7:-8000" />
-    <option name="version" value="8.12.6" />
+    <option name="version" value="8.13.2" />
     <option name="tabHighlightPosition" value="底部" />
   </component>
 </application>

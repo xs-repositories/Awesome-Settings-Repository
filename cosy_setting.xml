@@ -1,5 +1,7 @@
 <application>
   <component name="CosySettings">
+    <option name="allowReportUsage" value="true" />
+    <option name="manualOpenLocalModel" value="true" />
     <option name="showCheckReportUsage" value="false" />
     <option name="showInlineAcceptTips" value="false" />
   </component>

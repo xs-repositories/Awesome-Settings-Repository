@@ -10,18 +10,14 @@
       <map>
         <entry key="WF" />
         <entry key="dubbo-admin" />
-        <entry key="keep-assistant">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="keep-assistant" />
         <entry key="spring-boot" />
-        <entry key="wf-cabbage" />
-        <entry key="wf-config">
+        <entry key="wf-cabbage">
           <value>
             <map />
           </value>
         </entry>
+        <entry key="wf-config" />
         <entry key="wf-middleware-docker-compose" />
         <entry key="wf_boot_admin" />
         <entry key="wf_riskmonitor" />

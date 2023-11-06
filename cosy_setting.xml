@@ -1,5 +1,6 @@
 <application>
   <component name="CosySettings">
     <option name="showCheckReportUsage" value="false" />
+    <option name="showInlineAcceptTips" value="false" />
   </component>
 </application>

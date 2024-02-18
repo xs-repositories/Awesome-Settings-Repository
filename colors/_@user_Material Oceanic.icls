@@ -95,6 +95,12 @@
         <option name="FOREGROUND" value="89ddf7" />
       </value>
     </option>
+    <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
+      <value>
+        <option name="BACKGROUND" value="33e5d" />
+        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+      </value>
+    </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="c3cee3" />
@@ -102,6 +108,12 @@
       </value>
     </option>
     <option name="Groovy method declaration" baseAttributes="" />
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="33e5d" />
+        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+      </value>
+    </option>
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="808080" />
@@ -142,6 +154,12 @@
       <value />
     </option>
     <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="" />
+    <option name="LIVE_TEMPLATE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="9688" />
+      </value>
+    </option>
     <option name="List/map to object conversion" baseAttributes="" />
     <option name="MARKDOWN_NAVIGATOR.ABBREVIATED_TEXT">
       <value>
@@ -940,6 +958,12 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
+    <option name="SONARLINT_SELECTED">
+      <value>
+        <option name="BACKGROUND" value="33e5d" />
+        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+      </value>
+    </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="ffd700" />
@@ -972,6 +996,12 @@
     </option>
     <option name="Static property reference ID" baseAttributes="" />
     <option name="Unresolved reference access" baseAttributes="" />
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="4a4d50" />
+        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+      </value>
+    </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d32f2f" />

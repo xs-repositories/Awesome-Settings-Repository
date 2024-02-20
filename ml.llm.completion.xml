@@ -3,6 +3,7 @@
     <thirdParties>
       <entry id="com.github.copilot" is-enabled="true" />
       <entry id="com.codeium.intellij" is-enabled="true" />
+      <entry id="co.bito.bito-intellij" is-enabled="true" />
       <entry id="com.alibabacloud.intellij.cosy" is-enabled="true" />
     </thirdParties>
   </component>

@@ -2,7 +2,6 @@
   <component name="LafManager" autodetect="true">
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Atom One Dark (Material)" scheme="_@user_Atom One Dark (Material)" />
-      <laf-to-scheme laf="Dark" scheme="_@user_Dark" />
       <laf-to-scheme laf="GitHub Dark (Material)" scheme="_@user_GitHub Dark (Material)" />
       <laf-to-scheme laf="Material Darker" scheme="_@user_Material Darker" />
       <laf-to-scheme laf="Material Deep Ocean" scheme="_@user_Material Deep Ocean" />

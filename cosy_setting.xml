@@ -32,5 +32,6 @@
     </option>
     <option name="showCheckReportUsage" value="false" />
     <option name="showInlineAcceptTips" value="false" />
+    <option name="showInlineCancelTips" value="false" />
   </component>
 </application>

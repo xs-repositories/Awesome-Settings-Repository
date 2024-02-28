@@ -18,6 +18,7 @@
     <option name="FILESTATUS_ADDED" value="c3e887" />
     <option name="FILESTATUS_DELETED" value="f77669" />
     <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="LOOKUP_COLOR" value="263238" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="9688c0" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="9688c0" />
@@ -95,6 +96,12 @@
         <option name="FOREGROUND" value="89ddf7" />
       </value>
     </option>
+    <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
+      <value>
+        <option name="BACKGROUND" value="33e5d" />
+        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+      </value>
+    </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="c3cee3" />
@@ -102,6 +109,12 @@
       </value>
     </option>
     <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="33e5d" />
+        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+      </value>
+    </option>
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="808080" />
@@ -112,6 +125,60 @@
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="9688" />
+      </value>
+    </option>
+    <option name="JAVA.ASSERT">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA.IF_ELSE">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA.LOOP">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA.MODULE">
+      <value>
+        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA.NEW">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA.RETURN">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA.SWITCH">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA.THROW">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JAVA.TRY_CATCH">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.DECORATOR">
@@ -142,6 +209,12 @@
       <value />
     </option>
     <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="LIVE_TEMPLATE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="9688" />
+      </value>
+    </option>
     <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
     <option name="MARKDOWN_NAVIGATOR.ABBREVIATED_TEXT">
       <value>
@@ -940,6 +1013,131 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
+    <option name="RUNTIME_ERROR">
+      <value>
+        <option name="BACKGROUND" value="ff5370" />
+        <option name="ERROR_STRIPE_COLOR" value="ff5370" />
+      </value>
+    </option>
+    <option name="RUST_ASYNC_AWAIT">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="RUST_CRATE">
+      <value>
+        <option name="FOREGROUND" value="f78c6c" />
+      </value>
+    </option>
+    <option name="RUST_DEF">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="RUST_DYN">
+      <value>
+        <option name="FOREGROUND" value="f78c6c" />
+      </value>
+    </option>
+    <option name="RUST_IF_ELSE">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="RUST_IMPL">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="RUST_LOOP">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="RUST_MATCH">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="RUST_MOD">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="RUST_MOVE">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="RUST_PUB">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="RUST_REF">
+      <value>
+        <option name="FOREGROUND" value="f78c6c" />
+      </value>
+    </option>
+    <option name="RUST_RETURN">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="RUST_SELF">
+      <value>
+        <option name="FOREGROUND" value="ff5370" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="RUST_TRUE_FALSE">
+      <value>
+        <option name="FOREGROUND" value="f78c6c" />
+      </value>
+    </option>
+    <option name="RUST_UNDERSCORE">
+      <value>
+        <option name="FOREGROUND" value="ffcb6b" />
+      </value>
+    </option>
+    <option name="RUST_UNION">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="RUST_UNSAFE">
+      <value>
+        <option name="FOREGROUND" value="f78c6c" />
+      </value>
+    </option>
+    <option name="RUST_USE">
+      <value>
+        <option name="FOREGROUND" value="f78c6c" />
+      </value>
+    </option>
+    <option name="RUST_WHERE">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_SELECTED">
+      <value>
+        <option name="BACKGROUND" value="33e5d" />
+        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+      </value>
+    </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="ffd700" />
@@ -972,6 +1170,12 @@
     </option>
     <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
     <option name="Unresolved reference access" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="4a4d50" />
+        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
+      </value>
+    </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d32f2f" />

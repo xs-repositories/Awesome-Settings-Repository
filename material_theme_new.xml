@@ -2,7 +2,7 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="009688" />
+        <option name="accentColorHex" value="6b9bfa" />
       </MTAccentConfigState>
     </option>
     <option name="customThemeState">
@@ -39,7 +39,7 @@
     </option>
     <option name="themeState">
       <MTThemeConfigState>
-        <option name="selectedThemeName" value="CUSTOM" />
+        <option name="selectedThemeName" value="NATIVE" />
       </MTThemeConfigState>
     </option>
     <option name="titleBarState">
@@ -52,6 +52,7 @@
       <MTUiComponentsConfigState>
         <option name="borderless" value="true" />
         <option name="invertedCompletionSelection" value="true" />
+        <option name="materialDesignStyle" value="V1" />
         <option name="roundNotifications" value="true" />
         <option name="useShadows" value="true" />
       </MTUiComponentsConfigState>

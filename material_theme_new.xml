@@ -2,7 +2,7 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="009688" />
+        <option name="accentColorHex" value="6b9bfa" />
       </MTAccentConfigState>
     </option>
     <option name="featuresState">
@@ -20,6 +20,11 @@
       <MTTabsConfigState>
         <option name="highlightColorEnabled" value="true" />
       </MTTabsConfigState>
+    </option>
+    <option name="themeState">
+      <MTThemeConfigState>
+        <option name="selectedThemeName" value="NATIVE" />
+      </MTThemeConfigState>
     </option>
     <option name="titleBarState">
       <MTTitleBarConfigState>

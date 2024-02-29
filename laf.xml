@@ -1,6 +1,5 @@
 <application>
   <component name="LafManager" autodetect="true">
-    <laf themeId="CUSTOM" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Material Lighter" scheme="_@user_Material Lighter" />
       <laf-to-scheme laf="SynthWave '84 (Material)" scheme="SynthWave '84 (Material)" />

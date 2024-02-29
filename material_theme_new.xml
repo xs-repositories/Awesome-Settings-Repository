@@ -12,6 +12,7 @@
     </option>
     <option name="featuresState">
       <MTFeaturesConfigState>
+        <option name="centeredEditor" value="false" />
         <option name="useMaterialWallpapers" value="true" />
       </MTFeaturesConfigState>
     </option>
@@ -52,7 +53,6 @@
       <MTUiComponentsConfigState>
         <option name="borderless" value="true" />
         <option name="invertedCompletionSelection" value="true" />
-        <option name="materialDesignStyle" value="V1" />
         <option name="roundNotifications" value="true" />
         <option name="useShadows" value="true" />
       </MTUiComponentsConfigState>

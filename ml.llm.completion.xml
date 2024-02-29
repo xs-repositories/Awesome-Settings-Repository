@@ -4,7 +4,7 @@
       <entry id="com.github.copilot" is-enabled="true" />
       <entry id="com.codeium.intellij" is-enabled="false" />
       <entry id="co.bito.bito-intellij" is-enabled="false" />
-      <entry id="com.alibabacloud.intellij.cosy" is-enabled="true" />
+      <entry id="com.alibabacloud.intellij.cosy" is-enabled="false" />
     </thirdParties>
   </component>
 </application>

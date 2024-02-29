@@ -2,13 +2,23 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="6b9bfa" />
+        <option name="accentColorHex" value="009688" />
       </MTAccentConfigState>
+    </option>
+    <option name="customThemeState">
+      <MTCustomThemeConfigState>
+        <option name="colorScheme" value="Darcula" />
+      </MTCustomThemeConfigState>
     </option>
     <option name="featuresState">
       <MTFeaturesConfigState>
         <option name="useMaterialWallpapers" value="true" />
       </MTFeaturesConfigState>
+    </option>
+    <option name="lightCustomThemeState">
+      <MTLightCustomThemeConfigState>
+        <option name="colorScheme" value="Darcula" />
+      </MTLightCustomThemeConfigState>
     </option>
     <option name="metadata">
       <MTMetadataState>
@@ -23,7 +33,7 @@
     </option>
     <option name="themeState">
       <MTThemeConfigState>
-        <option name="selectedThemeName" value="NATIVE" />
+        <option name="selectedThemeName" value="CUSTOM" />
       </MTThemeConfigState>
     </option>
     <option name="titleBarState">

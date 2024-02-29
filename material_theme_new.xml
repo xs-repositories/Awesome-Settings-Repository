@@ -2,12 +2,12 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="6b9bfa" />
+        <option name="accentColorHex" value="00bcd4" />
       </MTAccentConfigState>
     </option>
     <option name="customThemeState">
       <MTCustomThemeConfigState>
-        <option name="colorScheme" value="Darcula" />
+        <option name="colorScheme" value="Default" />
       </MTCustomThemeConfigState>
     </option>
     <option name="featuresState">
@@ -18,7 +18,7 @@
     </option>
     <option name="lightCustomThemeState">
       <MTLightCustomThemeConfigState>
-        <option name="colorScheme" value="Darcula" />
+        <option name="colorScheme" value="Default" />
       </MTLightCustomThemeConfigState>
     </option>
     <option name="metadata">
@@ -30,7 +30,7 @@
     <option name="projectTreeState">
       <MTProjectTreeConfigState>
         <option name="useColoredDirectories" value="true" />
-        <option name="useIndicatorAutomaticGradient" value="false" />
+        <option name="useIndicatorGradient" value="true" />
       </MTProjectTreeConfigState>
     </option>
     <option name="tabsState">
@@ -40,7 +40,7 @@
     </option>
     <option name="themeState">
       <MTThemeConfigState>
-        <option name="selectedThemeName" value="NATIVE" />
+        <option name="selectedThemeName" value="LIGHT_CUSTOM" />
       </MTThemeConfigState>
     </option>
     <option name="titleBarState">

@@ -2,18 +2,41 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="6b9bfa" />
+        <option name="accentColorHex" value="009688" />
       </MTAccentConfigState>
+    </option>
+    <option name="featuresState">
+      <MTFeaturesConfigState>
+        <option name="useMaterialWallpapers" value="true" />
+      </MTFeaturesConfigState>
     </option>
     <option name="metadata">
       <MTMetadataState>
+        <option name="pristineConfig" value="false" />
         <option name="userId" value="79ee4a33:18de9c9d0ed:-8000" />
       </MTMetadataState>
     </option>
-    <option name="themeState">
-      <MTThemeConfigState>
-        <option name="selectedThemeName" value="NATIVE" />
-      </MTThemeConfigState>
+    <option name="tabsState">
+      <MTTabsConfigState>
+        <option name="highlightColorEnabled" value="true" />
+      </MTTabsConfigState>
+    </option>
+    <option name="titleBarState">
+      <MTTitleBarConfigState>
+        <option name="useColoredLeftToolWindow" value="true" />
+        <option name="useColoredRightToolWindow" value="true" />
+        <option name="useColoredStatusBar" value="true" />
+        <option name="useCustomTitle" value="true" />
+        <option name="useProjectFrame" value="true" />
+      </MTTitleBarConfigState>
+    </option>
+    <option name="uiComponentsState">
+      <MTUiComponentsConfigState>
+        <option name="borderless" value="true" />
+        <option name="invertedCompletionSelection" value="true" />
+        <option name="roundNotifications" value="true" />
+        <option name="useShadows" value="true" />
+      </MTUiComponentsConfigState>
     </option>
   </component>
 </application>

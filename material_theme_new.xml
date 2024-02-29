@@ -26,6 +26,12 @@
         <option name="userId" value="79ee4a33:18de9c9d0ed:-8000" />
       </MTMetadataState>
     </option>
+    <option name="projectTreeState">
+      <MTProjectTreeConfigState>
+        <option name="useColoredDirectories" value="true" />
+        <option name="useIndicatorGradient" value="true" />
+      </MTProjectTreeConfigState>
+    </option>
     <option name="tabsState">
       <MTTabsConfigState>
         <option name="highlightColorEnabled" value="true" />
@@ -38,11 +44,8 @@
     </option>
     <option name="titleBarState">
       <MTTitleBarConfigState>
-        <option name="useColoredLeftToolWindow" value="true" />
-        <option name="useColoredRightToolWindow" value="true" />
-        <option name="useColoredStatusBar" value="true" />
+        <option name="useColoredTitleBar" value="false" />
         <option name="useCustomTitle" value="true" />
-        <option name="useProjectFrame" value="true" />
       </MTTitleBarConfigState>
     </option>
     <option name="uiComponentsState">

@@ -2,12 +2,12 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="00bcd4" />
+        <option name="accentColorHex" value="009688" />
       </MTAccentConfigState>
     </option>
     <option name="customThemeState">
       <MTCustomThemeConfigState>
-        <option name="colorScheme" value="Default" />
+        <option name="colorScheme" value="Darcula" />
       </MTCustomThemeConfigState>
     </option>
     <option name="featuresState">
@@ -18,7 +18,7 @@
     </option>
     <option name="lightCustomThemeState">
       <MTLightCustomThemeConfigState>
-        <option name="colorScheme" value="Default" />
+        <option name="colorScheme" value="Darcula" />
       </MTLightCustomThemeConfigState>
     </option>
     <option name="metadata">
@@ -40,7 +40,7 @@
     </option>
     <option name="themeState">
       <MTThemeConfigState>
-        <option name="selectedThemeName" value="LIGHT_CUSTOM" />
+        <option name="selectedThemeName" value="CUSTOM" />
       </MTThemeConfigState>
     </option>
     <option name="titleBarState">
@@ -52,7 +52,6 @@
     <option name="uiComponentsState">
       <MTUiComponentsConfigState>
         <option name="borderless" value="true" />
-        <option name="invertedCompletionSelection" value="true" />
         <option name="roundNotifications" value="true" />
         <option name="useShadows" value="true" />
       </MTUiComponentsConfigState>

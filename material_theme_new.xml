@@ -2,13 +2,8 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="6b9bfa" />
+        <option name="accentColorHex" value="009688" />
       </MTAccentConfigState>
-    </option>
-    <option name="customThemeState">
-      <MTCustomThemeConfigState>
-        <option name="colorScheme" value="Default" />
-      </MTCustomThemeConfigState>
     </option>
     <option name="featuresState">
       <MTFeaturesConfigState>
@@ -18,7 +13,7 @@
     </option>
     <option name="lightCustomThemeState">
       <MTLightCustomThemeConfigState>
-        <option name="colorScheme" value="Default" />
+        <option name="colorScheme" value="Material Oceanic" />
       </MTLightCustomThemeConfigState>
     </option>
     <option name="metadata">
@@ -37,11 +32,6 @@
       <MTTabsConfigState>
         <option name="highlightColorEnabled" value="true" />
       </MTTabsConfigState>
-    </option>
-    <option name="themeState">
-      <MTThemeConfigState>
-        <option name="selectedThemeName" value="NATIVE" />
-      </MTThemeConfigState>
     </option>
     <option name="titleBarState">
       <MTTitleBarConfigState>

@@ -5,16 +5,13 @@
     <option name="appId" value="" />
     <option name="author" value="XS &lt;wanghaiqi@beeplay123.com&gt;" />
     <option name="googleKey" value="" />
+    <option name="kdocAuthor" value="XS &lt;wanghaiqi@beeplay123.com&gt;" />
     <option name="microsoftKey" value="" />
     <option name="projectWordMap">
       <map>
         <entry key="WF" />
         <entry key="dubbo-admin" />
-        <entry key="keep-assistant">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="keep-assistant" />
         <entry key="spring-boot" />
         <entry key="wf-cabbage" />
         <entry key="wf-config">
@@ -31,6 +28,7 @@
     <option name="secretKey" value="" />
     <option name="simpleFieldDoc" value="true" />
     <option name="token" value="" />
+    <option name="translator" value="微软免费翻译" />
     <option name="youdaoAppKey" value="" />
     <option name="youdaoAppSecret" value="" />
   </component>

@@ -2,7 +2,7 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="00bcd4" />
+        <option name="accentColorHex" value="6b9bfa" />
       </MTAccentConfigState>
     </option>
     <option name="customThemeState">
@@ -40,7 +40,7 @@
     </option>
     <option name="themeState">
       <MTThemeConfigState>
-        <option name="selectedThemeName" value="LIGHT_CUSTOM" />
+        <option name="selectedThemeName" value="NATIVE" />
       </MTThemeConfigState>
     </option>
     <option name="titleBarState">

@@ -1,5 +1,3 @@
-#parse("Class Header.java")
-
 import java.io.Serializable;
 import lombok.*;
 

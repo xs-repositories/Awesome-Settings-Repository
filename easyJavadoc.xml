@@ -26,7 +26,6 @@
     </option>
     <option name="secretId" value="" />
     <option name="secretKey" value="" />
-    <option name="simpleFieldDoc" value="true" />
     <option name="token" value="" />
     <option name="translator" value="微软免费翻译" />
     <option name="youdaoAppKey" value="" />

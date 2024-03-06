@@ -108,7 +108,7 @@
         <option name="FOREGROUND" value="f9ee98" />
       </value>
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="BACKGROUND">
       <value>
         <option name="EFFECT_TYPE" value="5" />

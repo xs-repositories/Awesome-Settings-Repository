@@ -395,7 +395,7 @@
         <option name="FOREGROUND" value="40bf77" />
       </value>
     </option>
-    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
+    <option name="Class" baseAttributes="" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="40bf77" />
@@ -3319,7 +3319,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
+    <option name="Static method access" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f43b6c" />
@@ -3469,8 +3469,8 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="osmorc.attributeName" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="osmorc.directiveName" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="osmorc.attributeName" baseAttributes="" />
+    <option name="osmorc.directiveName" baseAttributes="" />
     <option name="osmorc.headerName">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />

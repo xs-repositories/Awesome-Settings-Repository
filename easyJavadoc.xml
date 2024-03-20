@@ -10,10 +10,29 @@
     <option name="projectWordMap">
       <map>
         <entry key="WF" />
+        <entry key="airdrop">
+          <value>
+            <map />
+          </value>
+        </entry>
+        <entry key="docker-compose">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="dubbo-admin" />
         <entry key="keep-assistant" />
+        <entry key="logging-log4j2">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="spring-boot" />
-        <entry key="wf-cabbage" />
+        <entry key="wf-cabbage">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="wf-config">
           <value>
             <map />

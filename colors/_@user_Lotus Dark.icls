@@ -482,7 +482,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="CSS.IMPORTANT" baseAttributes="" />
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="fcfcfa" />
@@ -944,7 +944,7 @@
     <option name="HTML_CODE">
       <value />
     </option>
-    <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
+    <option name="HTML_ENTITY_REFERENCE" baseAttributes="" />
     <option name="HTML_TAG">
       <value>
         <option name="FOREGROUND" value="939293" />
@@ -2629,7 +2629,7 @@
         <option name="FOREGROUND" value="99dc5d" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
+    <option name="SASS_COMMENT" baseAttributes="" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="a9dc76" />
@@ -2839,8 +2839,8 @@
         <option name="FOREGROUND" value="727272" />
       </value>
     </option>
-    <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
-    <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
+    <option name="XML_ATTRIBUTE_NAME" baseAttributes="" />
+    <option name="XML_ENTITY_REFERENCE" baseAttributes="" />
     <option name="XML_PROLOGUE">
       <value>
         <option name="FOREGROUND" value="fcfcfa" />
@@ -2853,7 +2853,7 @@
         <option name="FOREGROUND" value="939293" />
       </value>
     </option>
-    <option name="XML_TAG_DATA" baseAttributes="TEXT" />
+    <option name="XML_TAG_DATA" baseAttributes="" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="ff6188" />

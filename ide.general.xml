@@ -11,6 +11,8 @@
     <entry key="ide.editor.tab.selection.animation" value="true" />
     <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
     <entry key="ide.animate.toolwindows" value="true" />
+    <entry key="org.toml.json.schema" value="false" />
+    <entry key="feature.suggester.enable.suggesters" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

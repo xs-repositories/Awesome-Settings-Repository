@@ -21,7 +21,6 @@
     <option name="featuresState">
       <MTFeaturesConfigState>
         <option name="autoResetColorScheme" value="true" />
-        <option name="centeredEditor" value="false" />
       </MTFeaturesConfigState>
     </option>
     <option name="metadata">
@@ -29,7 +28,7 @@
         <option name="migrated" value="true" />
         <option name="pristineConfig" value="false" />
         <option name="userId" value="-5ed9056f:183e3c90eb7:-8000" />
-        <option name="version" value="9.1.0" />
+        <option name="version" value="9.2.1" />
       </MTMetadataState>
     </option>
     <option name="themeState">

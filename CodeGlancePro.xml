@@ -2,6 +2,7 @@
   <component name="CodeGlance Pro">
     <option name="consoleWidth" value="189" />
     <option name="diffWidth" value="250" />
+    <option name="mainWidth" value="185" />
     <option name="mouseWheelMoveEditorToolTip" value="true" />
   </component>
 </application>

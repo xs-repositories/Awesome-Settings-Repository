@@ -395,7 +395,7 @@
         <option name="FOREGROUND" value="40bf77" />
       </value>
     </option>
-    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
+    <option name="Class" baseAttributes="" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="40bf77" />
@@ -1194,7 +1194,7 @@
         <option name="FOREGROUND" value="f3c811" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
@@ -2665,14 +2665,14 @@
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
-    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
-    <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
-    <option name="REGEXP.CHAR_CLASS" baseAttributes="DEFAULT_ENTITY" />
-    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
-    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.BRACES" baseAttributes="" />
+    <option name="REGEXP.BRACKETS" baseAttributes="" />
+    <option name="REGEXP.CHAR_CLASS" baseAttributes="" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="" />
+    <option name="REGEXP.META" baseAttributes="" />
+    <option name="REGEXP.PARENTHS" baseAttributes="" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="" />
+    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="" />
     <option name="REST.FIXED">
       <value>
         <option name="BACKGROUND" value="292d3e" />
@@ -3319,7 +3319,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
+    <option name="Static method access" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f43b6c" />
@@ -3393,10 +3393,10 @@
         <option name="FOREGROUND" value="e84606" />
       </value>
     </option>
-    <option name="VELOCITY_DIRECTIVE" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="VELOCITY_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="VELOCITY_REFERENCE" baseAttributes="DEFAULT_ATTRIBUTE" />
-    <option name="VELOCITY_SCRIPTING_BACKGROUND" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="VELOCITY_DIRECTIVE" baseAttributes="" />
+    <option name="VELOCITY_KEYWORD" baseAttributes="" />
+    <option name="VELOCITY_REFERENCE" baseAttributes="" />
+    <option name="VELOCITY_SCRIPTING_BACKGROUND" baseAttributes="" />
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d5aa00" />
@@ -3438,9 +3438,9 @@
     </option>
     <option name="XML_TAG_DATA" baseAttributes="TEXT" />
     <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="XPATH.KEYWORD" baseAttributes="" />
+    <option name="XPATH.XPATH_NAME" baseAttributes="" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
     <option name="XSLT_DIRECTIVE">
       <value>
         <option name="FOREGROUND" value="40bf77" />
@@ -3469,8 +3469,8 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="osmorc.attributeName" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="osmorc.directiveName" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="osmorc.attributeName" baseAttributes="" />
+    <option name="osmorc.directiveName" baseAttributes="" />
     <option name="osmorc.headerName">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />

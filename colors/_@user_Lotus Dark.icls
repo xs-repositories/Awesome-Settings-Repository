@@ -537,7 +537,7 @@
         <option name="FOREGROUND" value="f59762" />
       </value>
     </option>
-    <option name="Class" baseAttributes="" />
+    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="78dce8" />
@@ -2702,7 +2702,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="SUGGESTION">
       <value>
         <option name="EFFECT_COLOR" value="939393" />
@@ -2747,7 +2747,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="" />
+    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="TAPESTRY_COMPONENT_TAG">
       <value>
         <option name="FOREGROUND" value="78dce8" />

@@ -94,7 +94,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="" />
     <option name="BASH.HERE_DOC_END">
       <value>
         <option name="FOREGROUND" value="8c4200" />
@@ -508,7 +508,7 @@
         <option name="ERROR_STRIPE_COLOR" value="a5b9c2" />
       </value>
     </option>
-    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
+    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="" />
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="807353" />

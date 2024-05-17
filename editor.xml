@@ -3,6 +3,7 @@
     <option name="completionCaseSensitive" value="2" />
     <option name="selectAutopopupSuggestionsByChars" value="true" />
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
@@ -10,6 +11,9 @@
     <option name="ENABLE_SECOND_REFORMAT" value="true" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
     <option name="TAB_EXITS_BRACKETS_AND_QUOTES" value="false" />
+  </component>
+  <component name="CodeVisionSettings">
+    <option name="defaultPosition" value="Right" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="AUTOREPARSE_DELAY" value="0" />

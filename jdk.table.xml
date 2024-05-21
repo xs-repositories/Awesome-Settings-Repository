@@ -1337,7 +1337,7 @@
     <jdk version="2">
       <name value="zulu-11 (3)" />
       <type value="JavaSDK" />
-      <version value="java version &quot;11.0.22&quot;" />
+      <version value="Azul Zulu 11.0.22" />
       <homePath value="$USER_HOME$/.jdks/azul-11.0.22" />
       <roots>
         <annotationsPath>
@@ -1509,7 +1509,7 @@
     <jdk version="2">
       <name value="zulu-11 (4)" />
       <type value="JavaSDK" />
-      <version value="Azul Zulu version 11.0.22" />
+      <version value="Azul Zulu 11.0.22" />
       <homePath value="$USER_HOME$/.jdks/azul-11.0.22" />
       <roots>
         <annotationsPath>
@@ -1681,7 +1681,7 @@
     <jdk version="2">
       <name value="zulu-11 (5)" />
       <type value="JavaSDK" />
-      <version value="Azul Zulu version 11.0.22" />
+      <version value="Azul Zulu 11.0.22" />
       <homePath value="$USER_HOME$/.jdks/azul-11.0.22" />
       <roots>
         <annotationsPath>
@@ -1853,7 +1853,7 @@
     <jdk version="2">
       <name value="zulu-11 (6)" />
       <type value="JavaSDK" />
-      <version value="java version &quot;11.0.22&quot;" />
+      <version value="Azul Zulu 11.0.22" />
       <homePath value="$USER_HOME$/.jdks/azul-11.0.22" />
       <roots>
         <annotationsPath>

@@ -46,7 +46,7 @@
     <option name="TEARLINE_COLOR" value="13232a" />
   </colors>
   <attributes>
-    <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="CSS.IMPORTANT" baseAttributes="" />
     <option name="CSS.TAG_NAME">
       <value>
         <option name="FOREGROUND" value="e89258" />

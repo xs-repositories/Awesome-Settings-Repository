@@ -108,7 +108,7 @@
         <option name="FOREGROUND" value="cdcd00" />
       </value>
     </option>
-    <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
+    <option name="CSS.URL" baseAttributes="" />
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="89ddf7" />
@@ -126,7 +126,7 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
-    <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
+    <option name="Groovy method declaration" baseAttributes="" />
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="808080" />
@@ -212,16 +212,16 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
-    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="KOTLIN_LABEL" baseAttributes="" />
+    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="" />
     <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
       <value />
     </option>
     <option name="KOTLIN_SMART_CAST_VALUE">
       <value />
     </option>
-    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
-    <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
+    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="" />
+    <option name="List/map to object conversion" baseAttributes="" />
     <option name="MARKDOWN_NAVIGATOR.ABBREVIATED_TEXT">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
@@ -1168,7 +1168,7 @@
         <option name="FOREGROUND" value="87cefa" />
       </value>
     </option>
-    <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
+    <option name="Static property reference ID" baseAttributes="" />
     <option name="TERMINAL_CLASS_NAME_LOG_REFERENCE" baseAttributes="" />
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
@@ -1177,16 +1177,16 @@
         <option name="ERROR_STRIPE_COLOR" value="f8e71c" />
       </value>
     </option>
-    <option name="Unresolved reference access" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="Unresolved reference access" baseAttributes="" />
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d32f2f" />
       </value>
     </option>
-    <option name="com.plan9.IDENTIFIER" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="com.plan9.INSTRUCTION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="com.plan9.LABEL" baseAttributes="DEFAULT_LABEL" />
-    <option name="com.plan9.PSEUDO_INSTRUCTION" baseAttributes="com.plan9.INSTRUCTION" />
-    <option name="com.plan9.REGISTER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="com.plan9.IDENTIFIER" baseAttributes="" />
+    <option name="com.plan9.INSTRUCTION" baseAttributes="" />
+    <option name="com.plan9.LABEL" baseAttributes="" />
+    <option name="com.plan9.PSEUDO_INSTRUCTION" baseAttributes="" />
+    <option name="com.plan9.REGISTER" baseAttributes="" />
   </attributes>
 </scheme>

@@ -2366,5 +2366,25 @@
         </sourcePath>
       </roots>
     </jdk>
+    <jdk version="2">
+      <name value="graalvm-ce-22" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;22.0.1&quot;" />
+      <homePath value="$USER_HOME$/.jdks/graalvm-ce-22.0.1" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+    </jdk>
   </component>
 </application>

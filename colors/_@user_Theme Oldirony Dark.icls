@@ -46,7 +46,7 @@
     <option name="TEARLINE_COLOR" value="13232a" />
   </colors>
   <attributes>
-    <option name="CSS.IMPORTANT" baseAttributes="" />
+    <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CSS.TAG_NAME">
       <value>
         <option name="FOREGROUND" value="e89258" />
@@ -133,6 +133,6 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="XML_ATTRIBUTE_NAME" baseAttributes="" />
+    <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
   </attributes>
 </scheme>

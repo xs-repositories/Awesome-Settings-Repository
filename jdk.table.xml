@@ -20,7 +20,7 @@
       </roots>
     </jdk>
     <jdk version="2">
-      <name value="azul-17" />
+      <name value="azul-17.0.11" />
       <type value="JavaSDK" />
       <version value="java version &quot;17.0.11&quot;" />
       <homePath value="$USER_HOME$/.jdks/azul-17.0.11" />
@@ -190,7 +190,7 @@
       </roots>
     </jdk>
     <jdk version="2">
-      <name value="azul-8" />
+      <name value="azul-1.8.0_392" />
       <type value="JavaSDK" />
       <version value="java version &quot;1.8.0_392&quot;" />
       <homePath value="$USER_HOME$/.jdks/azul-1.8.0_392" />
@@ -230,344 +230,6 @@
         <sourcePath>
           <root type="composite">
             <root url="jar://$USER_HOME$/.jdks/azul-1.8.0_392/src.zip!/" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-    </jdk>
-    <jdk version="2">
-      <name value="openjdk-19" />
-      <type value="JavaSDK" />
-      <version value="java version &quot;19.0.1&quot;" />
-      <homePath value="$USER_HOME$/.jdks/openjdk-19.0.1" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/java.base" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/java.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/java.datatransfer" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/java.desktop" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/java.instrument" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/java.logging" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/java.management" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/java.management.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/java.naming" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/java.net.http" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/java.prefs" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/java.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/java.scripting" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/java.se" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/java.security.jgss" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/java.security.sasl" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/java.smartcardio" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/java.sql" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/java.sql.rowset" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/java.transaction.xa" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/java.xml" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/java.xml.crypto" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.accessibility" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.attach" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.charsets" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.crypto.cryptoki" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.crypto.ec" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.crypto.mscapi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.dynalink" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.editpad" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.hotspot.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.httpserver" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.incubator.concurrent" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.incubator.vector" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.internal.ed" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.internal.jvmstat" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.internal.le" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.internal.opt" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.internal.vm.ci" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.internal.vm.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.internal.vm.compiler.management" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.jartool" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.javadoc" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.jcmd" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.jconsole" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.jdeps" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.jdi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.jdwp.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.jfr" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.jlink" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.jpackage" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.jshell" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.jsobject" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.jstatd" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.localedata" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.management" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.management.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.management.jfr" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.naming.dns" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.naming.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.net" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.nio.mapmode" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.random" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.sctp" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.security.auth" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.security.jgss" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.unsupported" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.unsupported.desktop" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.xml.dom" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/openjdk-19.0.1!/jdk.zipfs" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/java.se" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.jdi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.jfr" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.net" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/java.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/java.sql" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/java.xml" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.jcmd" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.sctp" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/java.base" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.jdeps" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.jlink" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.zipfs" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/java.prefs" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.attach" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.jshell" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.jstatd" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.random" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/java.naming" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.editpad" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.jartool" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.javadoc" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.xml.dom" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/java.desktop" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/java.logging" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.charsets" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.dynalink" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.jconsole" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.jpackage" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.jsobject" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/java.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/java.net.http" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.crypto.ec" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/java.scripting" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.httpserver" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.jdwp.agent" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.localedata" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.management" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.naming.dns" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.naming.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/java.instrument" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/java.management" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/java.sql.rowset" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/java.xml.crypto" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.internal.ed" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.internal.le" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.nio.mapmode" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.unsupported" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/java.smartcardio" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.internal.opt" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/java.datatransfer" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.accessibility" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.crypto.mscapi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.hotspot.agent" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.security.auth" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.security.jgss" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/java.security.jgss" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/java.security.sasl" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.management.jfr" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/java.management.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/java.transaction.xa" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.incubator.vector" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.management.agent" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.incubator.concurrent" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/openjdk-19.0.1/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-    </jdk>
-    <jdk version="2">
-      <name value="zulu-11" />
-      <type value="JavaSDK" />
-      <version value="Azul Zulu 11.0.23" />
-      <homePath value="$USER_HOME$/.jdks/azul-11.0.23" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/com.azul.crs.client" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/com.azul.tooling" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.base" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.datatransfer" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.desktop" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.instrument" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.logging" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.management" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.management.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.naming" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.net.http" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.prefs" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.scripting" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.se" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.security.jgss" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.security.sasl" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.smartcardio" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.sql" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.sql.rowset" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.transaction.xa" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.xml" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.xml.crypto" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.accessibility" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.aot" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.attach" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.charsets" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.crypto.cryptoki" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.crypto.ec" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.crypto.mscapi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.dynalink" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.editpad" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.hotspot.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.httpserver" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.ed" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.jvmstat" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.le" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.opt" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.vm.ci" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.vm.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.vm.compiler.management" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jartool" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.javadoc" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jcmd" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jconsole" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jdeps" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jdi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jdwp.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jfr" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jlink" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jshell" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jsobject" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jstatd" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.localedata" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.management" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.management.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.management.jfr" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.naming.dns" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.naming.ldap" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.naming.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.net" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.pack" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.rmic" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.scripting.nashorn" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.scripting.nashorn.shell" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.sctp" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.security.auth" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.security.jgss" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.unsupported" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.unsupported.desktop" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.xml.dom" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.zipfs" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.se" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.aot" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jdi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jfr" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.net" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.sql" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.xml" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jcmd" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.pack" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.rmic" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.sctp" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.base" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jdeps" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jlink" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.zipfs" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.prefs" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.attach" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jshell" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jstatd" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.naming" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.editpad" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jartool" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.javadoc" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.xml.dom" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.desktop" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.logging" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.charsets" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.dynalink" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jconsole" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jsobject" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.net.http" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.crypto.ec" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.scripting" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.httpserver" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jdwp.agent" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.localedata" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.management" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.naming.dns" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.naming.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.instrument" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.management" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.sql.rowset" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.xml.crypto" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.ed" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.le" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.naming.ldap" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.unsupported" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/com.azul.tooling" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.smartcardio" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.opt" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.datatransfer" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.accessibility" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.crypto.mscapi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.hotspot.agent" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.security.auth" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.security.jgss" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.security.jgss" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.security.sasl" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.management.jfr" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/com.azul.crs.client" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.management.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.transaction.xa" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.management.agent" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.scripting.nashorn" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.scripting.nashorn.shell" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
           </root>
         </sourcePath>
       </roots>
@@ -786,178 +448,6 @@
     <jdk version="2">
       <name value="azul-11.0.19" />
       <type value="JavaSDK" />
-      <version value="Azul Zulu 11.0.23" />
-      <homePath value="$USER_HOME$/.jdks/azul-11.0.23" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/com.azul.crs.client" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/com.azul.tooling" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.base" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.datatransfer" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.desktop" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.instrument" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.logging" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.management" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.management.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.naming" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.net.http" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.prefs" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.scripting" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.se" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.security.jgss" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.security.sasl" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.smartcardio" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.sql" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.sql.rowset" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.transaction.xa" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.xml" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.xml.crypto" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.accessibility" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.aot" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.attach" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.charsets" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.crypto.cryptoki" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.crypto.ec" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.crypto.mscapi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.dynalink" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.editpad" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.hotspot.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.httpserver" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.ed" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.jvmstat" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.le" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.opt" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.vm.ci" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.vm.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.vm.compiler.management" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jartool" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.javadoc" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jcmd" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jconsole" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jdeps" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jdi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jdwp.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jfr" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jlink" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jshell" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jsobject" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jstatd" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.localedata" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.management" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.management.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.management.jfr" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.naming.dns" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.naming.ldap" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.naming.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.net" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.pack" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.rmic" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.scripting.nashorn" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.scripting.nashorn.shell" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.sctp" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.security.auth" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.security.jgss" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.unsupported" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.unsupported.desktop" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.xml.dom" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.zipfs" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.se" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.aot" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jdi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jfr" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.net" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.sql" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.xml" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jcmd" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.pack" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.rmic" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.sctp" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.base" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jdeps" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jlink" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.zipfs" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.prefs" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.attach" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jshell" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jstatd" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.naming" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.editpad" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jartool" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.javadoc" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.xml.dom" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.desktop" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.logging" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.charsets" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.dynalink" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jconsole" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jsobject" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.net.http" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.crypto.ec" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.scripting" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.httpserver" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jdwp.agent" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.localedata" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.management" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.naming.dns" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.naming.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.instrument" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.management" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.sql.rowset" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.xml.crypto" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.ed" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.le" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.naming.ldap" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.unsupported" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/com.azul.tooling" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.smartcardio" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.opt" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.datatransfer" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.accessibility" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.crypto.mscapi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.hotspot.agent" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.security.auth" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.security.jgss" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.security.jgss" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.security.sasl" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.management.jfr" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/com.azul.crs.client" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.management.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.transaction.xa" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.management.agent" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.scripting.nashorn" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.scripting.nashorn.shell" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-    </jdk>
-    <jdk version="2">
-      <name value="zulu-11 (2)" />
-      <type value="JavaSDK" />
       <version value="Azul Zulu version 11.0.19" />
       <homePath value="$USER_HOME$/.jdks/azul-11.0.19" />
       <roots>
@@ -1128,7 +618,7 @@
       </roots>
     </jdk>
     <jdk version="2">
-      <name value="azul-21" />
+      <name value="azul-21.0.3" />
       <type value="JavaSDK" />
       <version value="java version &quot;21.0.3&quot;" />
       <homePath value="$USER_HOME$/.jdks/azul-21.0.3" />
@@ -1296,7 +786,7 @@
       </roots>
     </jdk>
     <jdk version="2">
-      <name value="1.7" />
+      <name value="zulu7.56.0.11" />
       <type value="JavaSDK" />
       <version value="version 1.7" />
       <homePath value="$USER_HOME$/.jdks/zulu7.56.0.11" />
@@ -1335,7 +825,7 @@
       </roots>
     </jdk>
     <jdk version="2">
-      <name value="zulu-11 (3)" />
+      <name value="azul-11.0.23" />
       <type value="JavaSDK" />
       <version value="Azul Zulu 11.0.23" />
       <homePath value="$USER_HOME$/.jdks/azul-11.0.23" />
@@ -1507,351 +997,7 @@
       </roots>
     </jdk>
     <jdk version="2">
-      <name value="zulu-11 (4)" />
-      <type value="JavaSDK" />
-      <version value="Azul Zulu 11.0.23" />
-      <homePath value="$USER_HOME$/.jdks/azul-11.0.23" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/com.azul.crs.client" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/com.azul.tooling" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.base" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.datatransfer" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.desktop" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.instrument" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.logging" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.management" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.management.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.naming" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.net.http" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.prefs" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.scripting" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.se" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.security.jgss" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.security.sasl" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.smartcardio" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.sql" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.sql.rowset" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.transaction.xa" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.xml" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.xml.crypto" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.accessibility" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.aot" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.attach" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.charsets" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.crypto.cryptoki" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.crypto.ec" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.crypto.mscapi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.dynalink" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.editpad" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.hotspot.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.httpserver" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.ed" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.jvmstat" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.le" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.opt" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.vm.ci" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.vm.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.vm.compiler.management" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jartool" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.javadoc" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jcmd" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jconsole" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jdeps" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jdi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jdwp.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jfr" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jlink" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jshell" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jsobject" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jstatd" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.localedata" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.management" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.management.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.management.jfr" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.naming.dns" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.naming.ldap" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.naming.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.net" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.pack" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.rmic" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.scripting.nashorn" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.scripting.nashorn.shell" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.sctp" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.security.auth" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.security.jgss" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.unsupported" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.unsupported.desktop" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.xml.dom" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.zipfs" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.se" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.aot" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jdi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jfr" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.net" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.sql" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.xml" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jcmd" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.pack" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.rmic" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.sctp" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.base" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jdeps" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jlink" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.zipfs" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.prefs" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.attach" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jshell" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jstatd" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.naming" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.editpad" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jartool" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.javadoc" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.xml.dom" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.desktop" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.logging" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.charsets" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.dynalink" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jconsole" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jsobject" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.net.http" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.crypto.ec" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.scripting" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.httpserver" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jdwp.agent" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.localedata" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.management" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.naming.dns" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.naming.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.instrument" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.management" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.sql.rowset" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.xml.crypto" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.ed" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.le" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.naming.ldap" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.unsupported" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/com.azul.tooling" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.smartcardio" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.opt" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.datatransfer" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.accessibility" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.crypto.mscapi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.hotspot.agent" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.security.auth" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.security.jgss" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.security.jgss" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.security.sasl" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.management.jfr" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/com.azul.crs.client" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.management.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.transaction.xa" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.management.agent" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.scripting.nashorn" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.scripting.nashorn.shell" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-    </jdk>
-    <jdk version="2">
-      <name value="zulu-11 (5)" />
-      <type value="JavaSDK" />
-      <version value="java version &quot;11.0.23&quot;" />
-      <homePath value="$USER_HOME$/.jdks/azul-11.0.23" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/com.azul.crs.client" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/com.azul.tooling" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.base" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.datatransfer" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.desktop" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.instrument" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.logging" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.management" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.management.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.naming" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.net.http" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.prefs" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.scripting" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.se" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.security.jgss" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.security.sasl" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.smartcardio" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.sql" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.sql.rowset" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.transaction.xa" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.xml" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.xml.crypto" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.accessibility" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.aot" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.attach" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.charsets" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.crypto.cryptoki" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.crypto.ec" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.crypto.mscapi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.dynalink" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.editpad" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.hotspot.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.httpserver" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.ed" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.jvmstat" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.le" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.opt" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.vm.ci" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.vm.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.vm.compiler.management" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jartool" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.javadoc" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jcmd" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jconsole" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jdeps" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jdi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jdwp.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jfr" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jlink" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jshell" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jsobject" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jstatd" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.localedata" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.management" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.management.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.management.jfr" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.naming.dns" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.naming.ldap" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.naming.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.net" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.pack" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.rmic" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.scripting.nashorn" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.scripting.nashorn.shell" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.sctp" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.security.auth" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.security.jgss" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.unsupported" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.unsupported.desktop" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.xml.dom" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.zipfs" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.se" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.aot" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jdi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jfr" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.net" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.sql" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.xml" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jcmd" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.pack" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.rmic" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.sctp" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.base" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jdeps" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jlink" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.zipfs" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.prefs" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.attach" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jshell" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jstatd" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.naming" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.editpad" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jartool" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.javadoc" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.xml.dom" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.desktop" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.logging" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.charsets" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.dynalink" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jconsole" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jsobject" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.net.http" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.crypto.ec" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.scripting" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.httpserver" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jdwp.agent" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.localedata" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.management" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.naming.dns" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.naming.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.instrument" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.management" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.sql.rowset" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.xml.crypto" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.ed" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.le" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.naming.ldap" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.unsupported" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/com.azul.tooling" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.smartcardio" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.opt" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.datatransfer" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.accessibility" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.crypto.mscapi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.hotspot.agent" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.security.auth" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.security.jgss" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.security.jgss" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.security.sasl" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.management.jfr" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/com.azul.crs.client" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.management.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.transaction.xa" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.management.agent" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.scripting.nashorn" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.scripting.nashorn.shell" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-    </jdk>
-    <jdk version="2">
-      <name value="zulu-11 (6)" />
+      <name value="azul-11.0.22" />
       <type value="JavaSDK" />
       <version value="Azul Zulu 11.0.22" />
       <homePath value="$USER_HOME$/.jdks/azul-11.0.22" />
@@ -2023,7 +1169,7 @@
       </roots>
     </jdk>
     <jdk version="2">
-      <name value="zulu-11 (7)" />
+      <name value="azul-11.0.21" />
       <type value="JavaSDK" />
       <version value="Azul Zulu 11.0.21" />
       <homePath value="$USER_HOME$/.jdks/azul-11.0.21" />
@@ -2195,179 +1341,7 @@
       </roots>
     </jdk>
     <jdk version="2">
-      <name value="zulu-11 (8)" />
-      <type value="JavaSDK" />
-      <version value="Azul Zulu 11.0.23" />
-      <homePath value="$USER_HOME$/.jdks/azul-11.0.23" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/com.azul.crs.client" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/com.azul.tooling" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.base" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.datatransfer" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.desktop" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.instrument" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.logging" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.management" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.management.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.naming" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.net.http" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.prefs" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.scripting" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.se" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.security.jgss" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.security.sasl" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.smartcardio" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.sql" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.sql.rowset" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.transaction.xa" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.xml" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/java.xml.crypto" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.accessibility" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.aot" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.attach" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.charsets" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.crypto.cryptoki" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.crypto.ec" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.crypto.mscapi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.dynalink" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.editpad" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.hotspot.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.httpserver" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.ed" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.jvmstat" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.le" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.opt" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.vm.ci" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.vm.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.internal.vm.compiler.management" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jartool" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.javadoc" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jcmd" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jconsole" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jdeps" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jdi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jdwp.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jfr" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jlink" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jshell" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jsobject" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.jstatd" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.localedata" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.management" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.management.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.management.jfr" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.naming.dns" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.naming.ldap" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.naming.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.net" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.pack" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.rmic" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.scripting.nashorn" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.scripting.nashorn.shell" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.sctp" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.security.auth" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.security.jgss" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.unsupported" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.unsupported.desktop" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.xml.dom" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/azul-11.0.23!/jdk.zipfs" type="simple" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.se" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.aot" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jdi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jfr" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.net" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.sql" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.xml" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jcmd" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.pack" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.rmic" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.sctp" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.base" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jdeps" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jlink" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.zipfs" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.prefs" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.attach" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jshell" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jstatd" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.naming" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.editpad" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jartool" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.javadoc" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.xml.dom" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.desktop" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.logging" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.charsets" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.dynalink" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jconsole" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jsobject" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.net.http" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.crypto.ec" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.scripting" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.httpserver" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.jdwp.agent" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.localedata" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.management" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.naming.dns" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.naming.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.instrument" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.management" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.sql.rowset" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.xml.crypto" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.ed" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.le" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.naming.ldap" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.unsupported" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/com.azul.tooling" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.smartcardio" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.opt" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.datatransfer" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.accessibility" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.crypto.mscapi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.hotspot.agent" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.security.auth" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.security.jgss" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.security.jgss" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.security.sasl" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.management.jfr" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/com.azul.crs.client" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.management.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/java.transaction.xa" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.management.agent" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.scripting.nashorn" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.scripting.nashorn.shell" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/azul-11.0.23/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
-          </root>
-        </sourcePath>
-      </roots>
-    </jdk>
-    <jdk version="2">
-      <name value="graalvm-ce-22" />
+      <name value="graalvm-ce-22.0.1" />
       <type value="JavaSDK" />
       <version value="GraalVM CE 22.0.1 - VM 24.0.1" />
       <homePath value="$USER_HOME$/.jdks/graalvm-ce-22.0.1" />
@@ -2559,7 +1533,7 @@
       </roots>
     </jdk>
     <jdk version="2">
-      <name value="1.8 (3)" />
+      <name value="azul-1.8.0_402" />
       <type value="JavaSDK" />
       <version value="java version &quot;1.8.0_402&quot;" />
       <homePath value="$USER_HOME$/.jdks/azul-1.8.0_402" />
@@ -2599,6 +1573,55 @@
         <sourcePath>
           <root type="composite">
             <root url="jar://$USER_HOME$/.jdks/azul-1.8.0_402/src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+    </jdk>
+    <jdk version="2">
+      <name value="oracle-jdk1.8.0_371" />
+      <type value="JavaSDK" />
+      <version value="Oracle OpenJDK 1.8.0_371" />
+      <homePath value="$USER_HOME$/.jdks/oracle-jdk1.8.0_371" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/.jdks/oracle-jdk1.8.0_371/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/oracle-jdk1.8.0_371/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/oracle-jdk1.8.0_371/jre/lib/ext/access-bridge-64.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/oracle-jdk1.8.0_371/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/oracle-jdk1.8.0_371/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/oracle-jdk1.8.0_371/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/oracle-jdk1.8.0_371/jre/lib/ext/jfxrt.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/oracle-jdk1.8.0_371/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/oracle-jdk1.8.0_371/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/oracle-jdk1.8.0_371/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/oracle-jdk1.8.0_371/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/oracle-jdk1.8.0_371/jre/lib/ext/sunmscapi.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/oracle-jdk1.8.0_371/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/oracle-jdk1.8.0_371/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/oracle-jdk1.8.0_371/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/oracle-jdk1.8.0_371/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/oracle-jdk1.8.0_371/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/oracle-jdk1.8.0_371/jre/lib/jfxswt.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/oracle-jdk1.8.0_371/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/oracle-jdk1.8.0_371/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/oracle-jdk1.8.0_371/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/oracle-jdk1.8.0_371/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/oracle-jdk1.8.0_371/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/.jdks/oracle-jdk1.8.0_371/src.zip!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/oracle-jdk1.8.0_371/javafx-src.zip!/" type="simple" />
           </root>
         </sourcePath>
       </roots>

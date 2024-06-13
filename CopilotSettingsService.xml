@@ -1,5 +1,6 @@
 <application>
   <component name="CopilotSettingsServiceImpl">
     <option name="firstInstall" value="false" />
+    <option name="updateVersion" value="2.9.0" />
   </component>
 </application>

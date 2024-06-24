@@ -1,9 +1,26 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="compactTables" value="true" />
+    <option name="activeBoldTab" value="true" />
     <option name="autoResetColorScheme" value="true" />
     <option name="borderedButtons" value="true" />
     <option name="compactDropdowns" value="true" />
+    <option name="compactFields" value="true" />
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="contrastMode" value="true" />
+    <option name="invertedSelectionColor" value="true" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="useColoredDirectories" value="true" />
+    <option name="useColoredTitleBar" value="true" />
+    <option name="useCustomTitle" value="true" />
+    <option name="useMaterialWallpapers" value="true" />
+    <option name="useProjectFrame" value="true" />
+    <option name="useShadows" value="true" />
+    <option name="isAutoResetColorScheme" value="true" />
+    <option name="isBorderedButtons" value="true" />
+    <option name="isCompactDropdowns" value="true" />
     <option name="isActiveBoldTab" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
@@ -11,25 +28,22 @@
     <option name="isCompactFields" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isInvertedSelectionColor" value="true" />
-    <option name="isWizardShown" value="true" />
-    <option name="pristineConfig" value="false" />
-    <option name="treeFontSizeEnabled" value="true" />
-    <option name="tabFontSizeEnabled" value="true" />
-    <option name="useMaterialWallpapers" value="true" />
-    <option name="useColoredDirectories" value="true" />
-    <option name="useColoredTitleBar" value="true" />
-    <option name="useCustomTitle" value="true" />
-    <option name="useProjectFrame" value="true" />
-    <option name="useShadows" value="true" />
+    <option name="isTreeFontSizeEnabled" value="true" />
+    <option name="isTabFontSizeEnabled" value="true" />
+    <option name="isUseMaterialWallpapers" value="true" />
+    <option name="isUseColoredDirectories" value="true" />
+    <option name="isUseColoredTitleBar" value="true" />
+    <option name="isUseCustomTitle" value="true" />
+    <option name="isUseProjectFrame" value="true" />
+    <option name="isUseShadows" value="true" />
     <option name="indicatorStyle" value="空白" />
-    <option name="settingsSelectedTab" value="4" />
     <option name="accentColor" value="79c0ff" />
     <option name="secondAccentColor" />
     <option name="highlightColor" />
-    <option name="focusColor" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-5ed9056f:183e3c90eb7:-8000" />
     <option name="version" value="8.13.2" />
-    <option name="tabHighlightPosition" value="底部" />
+    <option name="tabHighlightPosition" />
+    <option name="pristineConfig" value="false" />
   </component>
 </application>

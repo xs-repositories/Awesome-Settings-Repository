@@ -566,7 +566,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
         <option name="FOREGROUND" value="6c1d1b" />
@@ -579,7 +579,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="" />
     <option name="JS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="63755d" />

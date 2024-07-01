@@ -3429,15 +3429,15 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="XML_ENTITY_REFERENCE" baseAttributes="" />
-    <option name="XML_PROLOGUE" baseAttributes="" />
+    <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="55616c" />
       </value>
     </option>
-    <option name="XML_TAG_DATA" baseAttributes="" />
-    <option name="XML_TAG_NAME" baseAttributes="" />
+    <option name="XML_TAG_DATA" baseAttributes="TEXT" />
+    <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="XPATH.KEYWORD" baseAttributes="" />
     <option name="XPATH.XPATH_NAME" baseAttributes="" />
     <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />

@@ -6,6 +6,7 @@
     <property name="ideVersion">2020.1.0.0</property>
     <property name="modified">2023-08-10T09:45:45</property>
     <property name="originalScheme">Material Oceanic</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
@@ -3249,7 +3250,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="org.rust.MACRO" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="org.rust.TYPE_PARAMETER">
       <value>
         <option name="FOREGROUND" value="f78c6c" />

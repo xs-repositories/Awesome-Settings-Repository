@@ -66,7 +66,7 @@
         <option name="FOREGROUND" value="cdcd00" />
       </value>
     </option>
-    <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
+    <option name="CSS.URL" baseAttributes="" />
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="89ddf7" />
@@ -79,7 +79,7 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
-    <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
+    <option name="Groovy method declaration" baseAttributes="" />
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="33e5d" />
@@ -108,7 +108,7 @@
       <value />
     </option>
     <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="" />
-    <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
+    <option name="List/map to object conversion" baseAttributes="" />
     <option name="MARKDOWN_NAVIGATOR.ABBREVIATED_TEXT">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
@@ -959,8 +959,8 @@
         <option name="FOREGROUND" value="87cefa" />
       </value>
     </option>
-    <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
-    <option name="Unresolved reference access" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="Static property reference ID" baseAttributes="" />
+    <option name="Unresolved reference access" baseAttributes="" />
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="4a4d50" />

@@ -237,7 +237,7 @@
     <jdk version="2">
       <name value="graalvm-ce-22" />
       <type value="JavaSDK" />
-      <version value="java version &quot;22.0.1&quot;" />
+      <version value="GraalVM CE 22.0.1 - VM 24.0.1" />
       <homePath value="$USER_HOME$/.jdks/graalvm-ce-22.0.1" />
       <roots>
         <annotationsPath>
